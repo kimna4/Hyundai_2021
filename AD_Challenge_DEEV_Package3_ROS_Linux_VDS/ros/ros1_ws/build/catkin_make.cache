@@ -1,2 +1,0 @@
-carmaker_vds_client:cmrosutils:hellocm:hellocm_cmnode:hellocm_msgs:point_colud_converter
--DCATKIN_DEVEL_PREFIX=/media/ssd1/2021_Hyundai/Challenge_Model_wROS/AD_Challenge_DEEV_Package3_ROS_Linux_VDS/ros/ros1_ws/devel -DCMAKE_INSTALL_PREFIX=/media/ssd1/2021_Hyundai/Challenge_Model_wROS/AD_Challenge_DEEV_Package3_ROS_Linux_VDS/ros/ros1_ws/install -G Unix Makefiles
