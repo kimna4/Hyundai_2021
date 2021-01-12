@@ -1,0 +1,55 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /media/ssd1/2021_Hyundai/Challenge_Model_wROS/AD_Challenge_DEEV_Package1_Linux_v1_dhk/AD_Challenge_DEEV_Package1_Linux/ros/point_cloud_converter-hydro-devel/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_812cf/fast"
+/usr/bin/make -f CMakeFiles/cmTC_812cf.dir/build.make CMakeFiles/cmTC_812cf.dir/build
+make[1]: Entering directory '/media/ssd1/2021_Hyundai/Challenge_Model_wROS/AD_Challenge_DEEV_Package1_Linux_v1_dhk/AD_Challenge_DEEV_Package1_Linux/ros/point_cloud_converter-hydro-devel/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_812cf.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_812cf.dir/CheckSymbolExists.c.o   -c /media/ssd1/2021_Hyundai/Challenge_Model_wROS/AD_Challenge_DEEV_Package1_Linux_v1_dhk/AD_Challenge_DEEV_Package1_Linux/ros/point_cloud_converter-hydro-devel/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_812cf
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_812cf.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_812cf.dir/CheckSymbolExists.c.o  -o cmTC_812cf 
+CMakeFiles/cmTC_812cf.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x1b): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_812cf.dir/build.make:97: recipe for target 'cmTC_812cf' failed
+make[1]: *** [cmTC_812cf] Error 1
+make[1]: Leaving directory '/media/ssd1/2021_Hyundai/Challenge_Model_wROS/AD_Challenge_DEEV_Package1_Linux_v1_dhk/AD_Challenge_DEEV_Package1_Linux/ros/point_cloud_converter-hydro-devel/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_812cf/fast' failed
+make: *** [cmTC_812cf/fast] Error 2
+
+File /media/ssd1/2021_Hyundai/Challenge_Model_wROS/AD_Challenge_DEEV_Package1_Linux_v1_dhk/AD_Challenge_DEEV_Package1_Linux/ros/point_cloud_converter-hydro-devel/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /media/ssd1/2021_Hyundai/Challenge_Model_wROS/AD_Challenge_DEEV_Package1_Linux_v1_dhk/AD_Challenge_DEEV_Package1_Linux/ros/point_cloud_converter-hydro-devel/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_7bdce/fast"
+/usr/bin/make -f CMakeFiles/cmTC_7bdce.dir/build.make CMakeFiles/cmTC_7bdce.dir/build
+make[1]: Entering directory '/media/ssd1/2021_Hyundai/Challenge_Model_wROS/AD_Challenge_DEEV_Package1_Linux_v1_dhk/AD_Challenge_DEEV_Package1_Linux/ros/point_cloud_converter-hydro-devel/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7bdce.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_7bdce.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_7bdce
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7bdce.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_7bdce.dir/CheckFunctionExists.c.o  -o cmTC_7bdce -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_7bdce.dir/build.make:97: recipe for target 'cmTC_7bdce' failed
+make[1]: *** [cmTC_7bdce] Error 1
+make[1]: Leaving directory '/media/ssd1/2021_Hyundai/Challenge_Model_wROS/AD_Challenge_DEEV_Package1_Linux_v1_dhk/AD_Challenge_DEEV_Package1_Linux/ros/point_cloud_converter-hydro-devel/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_7bdce/fast' failed
+make: *** [cmTC_7bdce/fast] Error 2
+
+
