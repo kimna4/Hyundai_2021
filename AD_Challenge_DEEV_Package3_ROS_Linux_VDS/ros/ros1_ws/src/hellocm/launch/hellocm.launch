@@ -1,0 +1,13 @@
+<launch>
+  <!--
+    provide user defined arguments to loslaunch call
+    - e.g. roslaunch <pkg> <launchfile> use_sim_time:="true"
+  -->
+  
+  <!-- Workaround to ensure "/use_sim_time" is set before CarMaker is started -->
+  <arg name="use_sim_time" default="false"/>
+  <param name="/use_sim_time" value="$(arg use_sim_time)" />
+
+  <!-- HelloCM: External ROS Node communicating with CarMaker -->
+  <node pkg="hellocm" type="hellocm_node" name="hellocm" output="screen" required="true"/>
+</launch>
