@@ -1,0 +1,2 @@
+[0.024s] Invoking command in '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/build/pure_pursuit': CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/build/pure_pursuit -- -j8 -l8
+[4.239s] Invoked command in '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/build/pure_pursuit' returned '2': CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/build/pure_pursuit -- -j8 -l8

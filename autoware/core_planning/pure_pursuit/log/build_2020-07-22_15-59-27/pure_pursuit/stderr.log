@@ -1,0 +1,21 @@
+[2.779s] In file included from [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_node.cpp:21:0[m[K:
+[2.779s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/pure_pursuit_core.h:100:10:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ at end of member declaration
+[2.779s]    double [01;31m[Kstanley_factor_[m[K
+[2.779s]           [01;31m[K^~~~~~~~~~~~~~~[m[K
+[2.781s] In file included from [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:18:0[m[K:
+[2.781s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/pure_pursuit_core.h:100:10:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ at end of member declaration
+[2.781s]    double [01;31m[Kstanley_factor_[m[K
+[2.781s]           [01;31m[K^~~~~~~~~~~~~~~[m[K
+[2.792s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K In member function ‘[01m[Kdouble waypoint_follower::PurePursuitNode::computeCommandAccel() const[m[K’:
+[2.792s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:343:57:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K,[m[K’ or ‘[01m[K;[m[K’ before ‘[01m[K)[m[K’ token
+[2.792s]          current_pose.position.y - target_pose.position.y[01;31m[K)[m[K;
+[2.792s]                                                          [01;31m[K^[m[K
+[2.792s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K At global scope:
+[2.793s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:350:17:[m[K [01;31m[Kerror: [m[Kexpected constructor, destructor, or type conversion before ‘[01m[K([m[K’ token
+[2.793s]        std::hypot[01;31m[K([m[Kcurrent_pose.position.x - target_pose.position.x,
+[2.793s]                  [01;31m[K^[m[K
+[3.290s] make[2]: *** [CMakeFiles/pure_pursuit.dir/src/pure_pursuit_node.cpp.o] Error 1
+[3.290s] make[2]: *** Waiting for unfinished jobs....
+[3.700s] make[2]: *** [CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o] Error 1
+[3.700s] make[1]: *** [CMakeFiles/pure_pursuit.dir/all] Error 2
+[3.701s] make: *** [all] Error 2

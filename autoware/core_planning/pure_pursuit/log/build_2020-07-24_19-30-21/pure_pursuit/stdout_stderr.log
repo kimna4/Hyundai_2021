@@ -1,0 +1,147 @@
+[0.238s] [  0%] Built target autoware_config_msgs_generate_messages_lisp
+[0.350s] [  0%] Built target geometry_msgs_generate_messages_py
+[0.421s] [  0%] Built target autoware_system_msgs_generate_messages_py
+[0.489s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[0.558s] [  0%] Built target roscpp_generate_messages_cpp
+[0.644s] [  0%] Built target sensor_msgs_generate_messages_eus
+[0.727s] [  0%] Built target _catkin_empty_exported_target
+[0.776s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[0.841s] [  0%] Built target autoware_msgs_generate_messages_cpp
+[0.897s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[0.975s] [  0%] Built target std_msgs_generate_messages_py
+[1.074s] [  0%] Built target autoware_msgs_generate_messages_py
+[1.134s] [  0%] Built target std_msgs_generate_messages_nodejs
+[1.231s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[1.319s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[1.423s] [  0%] Built target jsk_recognition_msgs_generate_messages_py
+[1.535s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[1.618s] [  0%] Built target sensor_msgs_generate_messages_py
+[1.700s] [  0%] Built target tf_generate_messages_py
+[1.776s] [  0%] Built target std_msgs_generate_messages_cpp
+[1.847s] [  0%] Built target jsk_footstep_msgs_generate_messages_py
+[1.924s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[2.023s] [  0%] Built target geometry_msgs_generate_messages_eus
+[2.103s] [  0%] Built target std_msgs_generate_messages_lisp
+[2.180s] [  0%] Built target roscpp_generate_messages_nodejs
+[2.272s] [  0%] Built target autoware_system_msgs_generate_messages_cpp
+[2.384s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[2.453s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[2.518s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[2.591s] [  0%] Built target jsk_recognition_msgs_generate_messages_cpp
+[2.674s] [  0%] Built target autoware_msgs_generate_messages_eus
+[2.727s] [  0%] Built target autoware_msgs_generate_messages_lisp
+[2.785s] [  0%] Built target std_msgs_generate_messages_eus
+[2.859s] [  0%] Built target autoware_msgs_generate_messages_nodejs
+[2.926s] [  0%] Built target jsk_footstep_msgs_generate_messages_eus
+[2.978s] [  0%] Built target actionlib_msgs_generate_messages_py
+[3.027s] [  0%] Built target autoware_config_msgs_generate_messages_eus
+[3.102s] [  0%] Built target jsk_footstep_msgs_generate_messages_lisp
+[3.189s] [  0%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[3.249s] [  0%] Built target autoware_system_msgs_generate_messages_nodejs
+[3.315s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[3.381s] [  0%] Built target jsk_footstep_msgs_generate_messages_cpp
+[3.450s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[3.532s] [  0%] Built target tf_generate_messages_eus
+[3.592s] [  0%] Built target tf_generate_messages_lisp
+[3.654s] [  0%] Built target autoware_config_msgs_generate_messages_nodejs
+[3.747s] [  0%] Built target tf_generate_messages_nodejs
+[3.834s] [  0%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[3.897s] [  0%] Built target roscpp_generate_messages_lisp
+[3.966s] [  0%] Built target roscpp_generate_messages_py
+[4.058s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[4.118s] [  0%] Built target autoware_config_msgs_generate_messages_cpp
+[4.203s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[4.273s] [  0%] Built target roscpp_generate_messages_eus
+[4.324s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[4.400s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[4.479s] [  0%] Built target autoware_config_msgs_generate_messages_py
+[4.551s] [  0%] Built target pcl_msgs_generate_messages_py
+[4.606s] [  0%] Built target actionlib_generate_messages_eus
+[4.708s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[4.773s] [  0%] Built target actionlib_generate_messages_lisp
+[4.904s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[4.997s] [  0%] Built target tf_generate_messages_cpp
+[5.119s] [  0%] Built target actionlib_generate_messages_nodejs
+[5.180s] [  0%] Built target autoware_system_msgs_generate_messages_eus
+[5.237s] [  0%] Built target tf2_msgs_generate_messages_eus
+[5.293s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[5.379s] [  0%] Built target actionlib_generate_messages_py
+[5.468s] [  0%] Built target tf2_msgs_generate_messages_py
+[5.552s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[5.600s] [  0%] Built target autoware_system_msgs_generate_messages_lisp
+[5.669s] [  0%] Built target jsk_recognition_msgs_generate_messages_eus
+[5.744s] [  0%] Built target jsk_recognition_msgs_generate_messages_lisp
+[5.798s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[5.882s] [  0%] Built target pcl_msgs_generate_messages_eus
+[5.968s] [  0%] Built target actionlib_generate_messages_cpp
+[6.029s] [35m[1mScanning dependencies of target pure_pursuit[0m
+[6.137s] [ 20%] [32mBuilding CXX object CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o[0m
+[9.565s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K In member function ‘[01m[Kvoid waypoint_follower::PurePursuitNode::run()[m[K’:
+[9.565s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:216:24:[m[K [01;35m[Kwarning: [m[Kcomparison between signed and unsigned integer expressions [[01;35m[K-Wsign-compare[m[K]
+[9.565s]            if([01;35m[Knew_index >= pp_.getCurrentWaypoints().size()[m[K){
+[9.565s]               [01;35m[K~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[9.565s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:227:14:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K([m[K’ before ‘[01m[Knew_index[m[K’
+[9.565s]            if [01;31m[Knew_index[m[K < 0{
+[9.565s]               [01;31m[K^~~~~~~~~[m[K
+[9.565s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:245:5:[m[K [01;31m[Kerror: [m[K‘[01m[Kelse[m[K’ without a previous ‘[01m[Kif[m[K’
+[9.566s]      [01;31m[Kelse[m[K {
+[9.566s]      [01;31m[K^~~~[m[K
+[9.572s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:300:42:[m[K [01;31m[Kerror: [m[Kqualified-id in declaration before ‘[01m[K([m[K’ token
+[9.572s]  void PurePursuitNode::publishTwistStamped[01;31m[K([m[K
+[9.572s]                                           [01;31m[K^[m[K
+[9.573s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:310:51:[m[K [01;31m[Kerror: [m[Kqualified-id in declaration before ‘[01m[K([m[K’ token
+[9.573s]  void PurePursuitNode::publishControlCommandStamped[01;31m[K([m[K
+[9.573s]                                                    [01;31m[K^[m[K
+[9.573s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:328:49:[m[K [01;31m[Kerror: [m[Kqualified-id in declaration before ‘[01m[K([m[K’ token
+[9.573s]  double PurePursuitNode::computeLookaheadDistance[01;31m[K([m[K) const
+[9.573s]                                                  [01;31m[K^[m[K
+[9.573s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:344:28:[m[K [01;31m[Kerror: [m[Kqualified-id in declaration before ‘[01m[K([m[K’ token
+[9.573s]  int PurePursuitNode::getSgn[01;31m[K([m[K) const
+[9.573s]                             [01;31m[K^[m[K
+[9.573s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:358:47:[m[K [01;31m[Kerror: [m[Kqualified-id in declaration before ‘[01m[K([m[K’ token
+[9.573s]  double PurePursuitNode::computeCommandVelocity[01;31m[K([m[K) const
+[9.573s]                                                [01;31m[K^[m[K
+[9.574s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:368:44:[m[K [01;31m[Kerror: [m[Kqualified-id in declaration before ‘[01m[K([m[K’ token
+[9.574s]  double PurePursuitNode::computeCommandAccel[01;31m[K([m[K) const
+[9.574s]                                             [01;31m[K^[m[K
+[9.574s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:384:46:[m[K [01;31m[Kerror: [m[Kqualified-id in declaration before ‘[01m[K([m[K’ token
+[9.574s]  double PurePursuitNode::computeAngularGravity[01;31m[K([m[K
+[9.574s]                                               [01;31m[K^[m[K
+[9.574s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:391:41:[m[K [01;31m[Kerror: [m[Kqualified-id in declaration before ‘[01m[K([m[K’ token
+[9.574s]  void PurePursuitNode::callbackFromConfig[01;31m[K([m[K
+[9.574s]                                          [01;31m[K^[m[K
+[9.574s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:402:54:[m[K [01;31m[Kerror: [m[Kqualified-id in declaration before ‘[01m[K([m[K’ token
+[9.574s]  void PurePursuitNode::publishDeviationCurrentPosition[01;31m[K([m[K
+[9.574s]                                                       [01;31m[K^[m[K
+[9.575s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:425:46:[m[K [01;31m[Kerror: [m[Kqualified-id in declaration before ‘[01m[K([m[K’ token
+[9.575s]  void PurePursuitNode::callbackFromCurrentPose[01;31m[K([m[K
+[9.575s]                                               [01;31m[K^[m[K
+[9.575s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:432:50:[m[K [01;31m[Kerror: [m[Kqualified-id in declaration before ‘[01m[K([m[K’ token
+[9.575s]  void PurePursuitNode::callbackFromCurrentVelocity[01;31m[K([m[K
+[9.575s]                                                   [01;31m[K^[m[K
+[9.575s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:440:44:[m[K [01;31m[Kerror: [m[Kqualified-id in declaration before ‘[01m[K([m[K’ token
+[9.575s]  void PurePursuitNode::callbackFromWayPoints[01;31m[K([m[K
+[9.575s]                                             [01;31m[K^[m[K
+[9.575s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:463:50:[m[K [01;31m[Kerror: [m[Kqualified-id in declaration before ‘[01m[K([m[K’ token
+[9.575s]  void PurePursuitNode::connectVirtualLastWaypoints[01;31m[K([m[K
+[9.576s]                                                   [01;31m[K^[m[K
+[9.576s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:488:1:[m[K [01;31m[Kerror: [m[Ka function-definition is not allowed here before ‘[01m[K{[m[K’ token
+[9.576s]  [01;31m[K{[m[K
+[9.576s]  [01;31m[K^[m[K
+[9.576s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:179:11:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kway_x[m[K’ [[01;35m[K-Wunused-variable[m[K]
+[9.576s]      float [01;35m[Kway_x[m[K = pp_.getCurrentWaypoints().at(0).pose.pose.position.x;
+[9.576s]            [01;35m[K^~~~~[m[K
+[9.576s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:180:11:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kway_y[m[K’ [[01;35m[K-Wunused-variable[m[K]
+[9.576s]      float [01;35m[Kway_y[m[K = pp_.getCurrentWaypoints().at(0).pose.pose.position.y;
+[9.577s]            [01;35m[K^~~~~[m[K
+[9.577s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:492:1:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K}[m[K’ at end of input
+[9.577s]  [01;31m[K}[m[K  // namespace waypoint_follower
+[9.577s]  [01;31m[K^[m[K
+[9.577s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K At global scope:
+[9.577s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:492:1:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K}[m[K’ at end of input
+[10.910s] CMakeFiles/pure_pursuit.dir/build.make:110: recipe for target 'CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o' failed
+[10.911s] make[2]: *** [CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o] Error 1
+[10.911s] make[1]: *** [CMakeFiles/pure_pursuit.dir/all] Error 2
+[10.911s] CMakeFiles/Makefile2:444: recipe for target 'CMakeFiles/pure_pursuit.dir/all' failed
+[10.911s] make: *** [all] Error 2
+[10.911s] Makefile:140: recipe for target 'all' failed

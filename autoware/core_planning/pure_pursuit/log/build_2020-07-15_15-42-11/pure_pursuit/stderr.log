@@ -1,0 +1,19 @@
+[3.392s] In file included from [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:19:0[m[K:
+[3.392s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:[m[K In member function ‘[01m[Kdouble Stanley::calculate_steering(double, double, double, std::vector<autoware_msgs::Waypoint_<std::allocator<void> >, std::allocator<autoware_msgs::Waypoint_<std::allocator<void> > > >, double)[m[K’:
+[3.392s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:128:5:[m[K [01;31m[Kerror: [m[K‘[01m[Ksteer[m[K’ was not declared in this scope
+[3.392s]      [01;31m[Ksteer[m[K = fmax(fmin(input_steer, 1.0), -1.0);
+[3.392s]      [01;31m[K^~~~~[m[K
+[3.393s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:128:5:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Ksleep[m[K’
+[3.393s]      [01;36m[Ksteer[m[K = fmax(fmin(input_steer, 1.0), -1.0);
+[3.393s]      [01;36m[K^~~~~[m[K
+[3.393s]      [32m[Ksleep[m[K
+[3.393s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:128:23:[m[K [01;31m[Kerror: [m[K‘[01m[Kinput_steer[m[K’ was not declared in this scope
+[3.393s]      steer = fmax(fmin([01;31m[Kinput_steer[m[K, 1.0), -1.0);
+[3.393s]                        [01;31m[K^~~~~~~~~~~[m[K
+[3.395s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:128:23:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[K_set_steer[m[K’
+[3.395s]      steer = fmax(fmin([01;36m[Kinput_steer[m[K, 1.0), -1.0);
+[3.395s]                        [01;36m[K^~~~~~~~~~~[m[K
+[3.395s]                        [32m[K_set_steer[m[K
+[4.458s] make[2]: *** [CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o] Error 1
+[4.459s] make[1]: *** [CMakeFiles/pure_pursuit.dir/all] Error 2
+[4.459s] make: *** [all] Error 2

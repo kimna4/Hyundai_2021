@@ -1,0 +1,8 @@
+prefix=/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/lattice_planner
+
+Name: lattice_planner
+Description: Description of lattice_planner
+Version: 1.12.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -llibtraj_gen
+Requires: 

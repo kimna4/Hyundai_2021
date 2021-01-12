@@ -1,0 +1,8 @@
+prefix=/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/ff_waypoint_follower
+
+Name: ff_waypoint_follower
+Description: Description of ff_waypoint_follower
+Version: 1.12.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

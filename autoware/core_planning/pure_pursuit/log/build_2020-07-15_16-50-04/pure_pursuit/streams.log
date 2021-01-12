@@ -1,0 +1,100 @@
+[0.049s] Invoking command in '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/build/pure_pursuit': CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/build/pure_pursuit -- -j8 -l8
+[0.254s] [  0%] Built target autoware_config_msgs_generate_messages_lisp
+[0.368s] [  0%] Built target geometry_msgs_generate_messages_py
+[0.455s] [  0%] Built target autoware_system_msgs_generate_messages_py
+[0.530s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[0.587s] [  0%] Built target roscpp_generate_messages_cpp
+[0.650s] [  0%] Built target sensor_msgs_generate_messages_eus
+[0.714s] [  0%] Built target _catkin_empty_exported_target
+[0.792s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[0.850s] [  0%] Built target autoware_msgs_generate_messages_cpp
+[0.895s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[0.985s] [  0%] Built target std_msgs_generate_messages_py
+[1.042s] [  0%] Built target autoware_msgs_generate_messages_py
+[1.122s] [  0%] Built target std_msgs_generate_messages_nodejs
+[1.230s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[1.320s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[1.370s] [  0%] Built target jsk_recognition_msgs_generate_messages_py
+[1.443s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[1.520s] [  0%] Built target sensor_msgs_generate_messages_py
+[1.585s] [  0%] Built target tf_generate_messages_py
+[1.644s] [  0%] Built target std_msgs_generate_messages_cpp
+[1.750s] [  0%] Built target jsk_footstep_msgs_generate_messages_py
+[1.835s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[1.902s] [  0%] Built target geometry_msgs_generate_messages_eus
+[1.988s] [  0%] Built target std_msgs_generate_messages_lisp
+[2.081s] [  0%] Built target roscpp_generate_messages_nodejs
+[2.157s] [  0%] Built target autoware_system_msgs_generate_messages_cpp
+[2.226s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[2.308s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[2.395s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[2.464s] [  0%] Built target jsk_recognition_msgs_generate_messages_cpp
+[2.540s] [  0%] Built target autoware_msgs_generate_messages_eus
+[2.630s] [  0%] Built target autoware_msgs_generate_messages_lisp
+[2.717s] [  0%] Built target std_msgs_generate_messages_eus
+[2.818s] [  0%] Built target autoware_msgs_generate_messages_nodejs
+[2.898s] [  0%] Built target jsk_footstep_msgs_generate_messages_eus
+[2.958s] [  0%] Built target actionlib_msgs_generate_messages_py
+[3.005s] [  0%] Built target autoware_config_msgs_generate_messages_eus
+[3.073s] [  0%] Built target jsk_footstep_msgs_generate_messages_lisp
+[3.149s] [  0%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[3.246s] [  0%] Built target autoware_system_msgs_generate_messages_nodejs
+[3.320s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[3.394s] [  0%] Built target jsk_footstep_msgs_generate_messages_cpp
+[3.464s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[3.569s] [  0%] Built target tf_generate_messages_eus
+[3.633s] [  0%] Built target tf_generate_messages_lisp
+[3.705s] [  0%] Built target autoware_config_msgs_generate_messages_nodejs
+[3.766s] [  0%] Built target tf_generate_messages_nodejs
+[3.859s] [  0%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[3.944s] [  0%] Built target roscpp_generate_messages_lisp
+[4.005s] [  0%] Built target roscpp_generate_messages_py
+[4.077s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[4.154s] [  0%] Built target autoware_config_msgs_generate_messages_cpp
+[4.210s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[4.290s] [  0%] Built target roscpp_generate_messages_eus
+[4.409s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[4.465s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[4.528s] [  0%] Built target autoware_config_msgs_generate_messages_py
+[4.616s] [  0%] Built target pcl_msgs_generate_messages_py
+[4.714s] [  0%] Built target actionlib_generate_messages_eus
+[4.781s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[4.851s] [  0%] Built target actionlib_generate_messages_lisp
+[4.920s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[4.979s] [  0%] Built target tf_generate_messages_cpp
+[5.042s] [  0%] Built target actionlib_generate_messages_nodejs
+[5.120s] [  0%] Built target autoware_system_msgs_generate_messages_eus
+[5.206s] [  0%] Built target tf2_msgs_generate_messages_eus
+[5.280s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[5.336s] [  0%] Built target actionlib_generate_messages_py
+[5.395s] [  0%] Built target tf2_msgs_generate_messages_py
+[5.452s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[5.537s] [  0%] Built target autoware_system_msgs_generate_messages_lisp
+[5.600s] [  0%] Built target jsk_recognition_msgs_generate_messages_eus
+[5.673s] [  0%] Built target jsk_recognition_msgs_generate_messages_lisp
+[5.736s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[5.793s] [  0%] Built target pcl_msgs_generate_messages_eus
+[5.864s] [  0%] Built target actionlib_generate_messages_cpp
+[5.904s] [35m[1mScanning dependencies of target pure_pursuit[0m
+[5.967s] [ 20%] [32mBuilding CXX object CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o[0m
+[9.333s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K In member function ‘[01m[Kvoid waypoint_follower::PurePursuitNode::run()[m[K’:
+[9.333s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:151:12:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kcan_get_curvature[m[K’ [[01;35m[K-Wunused-variable[m[K]
+[9.333s]        bool [01;35m[Kcan_get_curvature[m[K = true;
+[9.333s]             [01;35m[K^~~~~~~~~~~~~~~~~[m[K
+[9.334s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:159:12:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kcan_get_curvature[m[K’ [[01;35m[K-Wunused-variable[m[K]
+[9.334s]        bool [01;35m[Kcan_get_curvature[m[K = pp_.canGetCurvature(&kappa);
+[9.334s]             [01;35m[K^~~~~~~~~~~~~~~~~[m[K
+[9.334s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:214:25:[m[K [01;31m[Kerror: [m[K‘[01m[Kcan_get_curvature[m[K’ was not declared in this scope
+[9.334s]      publishTwistStamped([01;31m[Kcan_get_curvature[m[K, kappa);
+[9.334s]                          [01;31m[K^~~~~~~~~~~~~~~~~[m[K
+[9.344s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:214:25:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[KcalcCurvature[m[K’
+[9.345s]      publishTwistStamped([01;36m[Kcan_get_curvature[m[K, kappa);
+[9.345s]                          [01;36m[K^~~~~~~~~~~~~~~~~[m[K
+[9.345s]                          [32m[KcalcCurvature[m[K
+[10.779s] CMakeFiles/pure_pursuit.dir/build.make:110: recipe for target 'CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o' failed
+[10.779s] make[2]: *** [CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o] Error 1
+[10.779s] make[1]: *** [CMakeFiles/pure_pursuit.dir/all] Error 2
+[10.780s] CMakeFiles/Makefile2:444: recipe for target 'CMakeFiles/pure_pursuit.dir/all' failed
+[10.780s] Makefile:140: recipe for target 'all' failed
+[10.780s] make: *** [all] Error 2
+[10.783s] Invoked command in '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/build/pure_pursuit' returned '2': CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/build/pure_pursuit -- -j8 -l8

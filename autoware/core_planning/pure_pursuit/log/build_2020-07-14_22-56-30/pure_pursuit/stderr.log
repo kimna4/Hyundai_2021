@@ -1,0 +1,25 @@
+[3.256s] In file included from [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:19:0[m[K:
+[3.257s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:[m[K In member function ‘[01m[Kint Stanley::get_steering_direction(float*, float*)[m[K’:
+[3.257s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:89:8:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K([m[K’ before ‘[01m[Kcorss_prod[m[K’
+[3.257s]      if [01;31m[Kcorss_prod[m[K >= 0 {
+[3.257s]         [01;31m[K^~~~~~~~~~[m[K
+[3.257s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:87:11:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kcorss_prod[m[K’ [[01;35m[K-Wunused-variable[m[K]
+[3.257s]      float [01;35m[Kcorss_prod[m[K = v1[0]*v2[1] - v1[1]*v2[0];
+[3.257s]            [01;35m[K^~~~~~~~~~[m[K
+[3.257s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:[m[K In member function ‘[01m[Kdouble Stanley::get_cte_heading_error(float)[m[K’:
+[3.257s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:105:8:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K([m[K’ before ‘[01m[Kcte_heading_error_mod[m[K’
+[3.257s]      if [01;31m[Kcte_heading_error_mod[m[K > M_PI/2 and cte_heading_error_mod < M_PI:
+[3.257s]         [01;31m[K^~~~~~~~~~~~~~~~~~~~~[m[K
+[3.257s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:108:3:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+[3.257s]    [01;35m[K}[m[K
+[3.257s]    [01;35m[K^[m[K
+[3.257s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:[m[K In member function ‘[01m[Kdouble Stanley::calculate_steering(float, float, float, std::vector<autoware_msgs::Waypoint_<std::allocator<void> >, std::allocator<autoware_msgs::Waypoint_<std::allocator<void> > > >, float)[m[K’:
+[3.258s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:112:57:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[K(waypoints.std::vector<autoware_msgs::Waypoint_<std::allocator<void> >, std::allocator<autoware_msgs::Waypoint_<std::allocator<void> > > >::at(0).autoware_msgs::Waypoint_<std::allocator<void> >::pose.geometry_msgs::PoseStamped_<std::allocator<void> >::pose.geometry_msgs::Pose_<std::allocator<void> >::position.geometry_msgs::Point_<std::allocator<void> >::x - ((geometry_msgs::Point_<std::allocator<void> >::_x_type)x))[m[K’ from ‘[01m[Kgeometry_msgs::Point_<std::allocator<void> >::_x_type {aka double}[m[K’ to ‘[01m[Kfloat[m[K’ inside { } [[01;35m[K-Wnarrowing[m[K]
+[3.258s]      float v1[2] = {[01;35m[Kwaypoints.at(0).pose.pose.position.x - x[m[K, waypoints.at(0).pose.pose.position.y - y};
+[3.258s]                     [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~[m[K
+[3.258s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:112:99:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[K(waypoints.std::vector<autoware_msgs::Waypoint_<std::allocator<void> >, std::allocator<autoware_msgs::Waypoint_<std::allocator<void> > > >::at(0).autoware_msgs::Waypoint_<std::allocator<void> >::pose.geometry_msgs::PoseStamped_<std::allocator<void> >::pose.geometry_msgs::Pose_<std::allocator<void> >::position.geometry_msgs::Point_<std::allocator<void> >::y - ((geometry_msgs::Point_<std::allocator<void> >::_y_type)y))[m[K’ from ‘[01m[Kgeometry_msgs::Point_<std::allocator<void> >::_y_type {aka double}[m[K’ to ‘[01m[Kfloat[m[K’ inside { } [[01;35m[K-Wnarrowing[m[K]
+[3.258s]  ints.at(0).pose.pose.position.x - x, [01;35m[Kwaypoints.at(0).pose.pose.position.y - y[m[K};
+[3.258s]                                       [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~[m[K
+[4.273s] make[2]: *** [CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o] Error 1
+[4.273s] make[1]: *** [CMakeFiles/pure_pursuit.dir/all] Error 2
+[4.273s] make: *** [all] Error 2

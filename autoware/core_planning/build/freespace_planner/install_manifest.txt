@@ -1,0 +1,6 @@
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/freespace_planner/lib/pkgconfig/freespace_planner.pc
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/freespace_planner/share/freespace_planner/cmake/freespace_plannerConfig.cmake
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/freespace_planner/share/freespace_planner/cmake/freespace_plannerConfig-version.cmake
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/freespace_planner/share/freespace_planner/package.xml
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/freespace_planner/lib/freespace_planner/astar_navi
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/freespace_planner/share/freespace_planner/launch/astar_navi.launch

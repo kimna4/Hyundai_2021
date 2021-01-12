@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/kimna/Desktop/autoware.ai/src/autoware/core_planning/build/mpc_follower/devel/setup.sh

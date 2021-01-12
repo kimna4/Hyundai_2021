@@ -1,0 +1,8 @@
+prefix=/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/twist_filter
+
+Name: twist_filter
+Description: Description of twist_filter
+Version: 1.12.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -ltwist_filter_core
+Requires: autoware_config_msgs autoware_msgs

@@ -1,0 +1,5 @@
+[7.735s] /tmp/cc59pNSU.s: Assembler messages:
+[7.735s] /tmp/cc59pNSU.s: Fatal error: can't close CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o: No space left on device
+[7.739s] make[2]: *** [CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o] Error 1
+[7.739s] make[1]: *** [CMakeFiles/pure_pursuit.dir/all] Error 2
+[7.739s] make: *** [all] Error 2

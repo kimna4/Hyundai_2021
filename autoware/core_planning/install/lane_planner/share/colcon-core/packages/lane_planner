@@ -1,0 +1,1 @@
+autoware_config_msgs:autoware_msgs:gnss:lanelet2_extension:libwaypoint_follower:roscpp:std_msgs:tablet_socket_msgs:vector_map

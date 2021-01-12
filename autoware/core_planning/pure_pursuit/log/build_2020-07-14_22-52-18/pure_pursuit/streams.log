@@ -1,0 +1,170 @@
+[0.025s] Invoking command in '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/build/pure_pursuit': CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/build/pure_pursuit -- -j8 -l8
+[0.140s] [  0%] Built target autoware_system_msgs_generate_messages_lisp
+[0.143s] [  0%] Built target autoware_config_msgs_generate_messages_lisp
+[0.144s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[0.147s] [  0%] Built target jsk_recognition_msgs_generate_messages_lisp
+[0.150s] [  0%] Built target pcl_msgs_generate_messages_eus
+[0.159s] [  0%] Built target actionlib_generate_messages_cpp
+[0.176s] [  0%] Built target geometry_msgs_generate_messages_py
+[0.180s] [  0%] Built target jsk_recognition_msgs_generate_messages_eus
+[0.206s] [  0%] Built target roscpp_generate_messages_cpp
+[0.210s] [  0%] Built target autoware_system_msgs_generate_messages_py
+[0.230s] [  0%] Built target sensor_msgs_generate_messages_eus
+[0.230s] [  0%] Built target _catkin_empty_exported_target
+[0.233s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[0.242s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[0.252s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[0.255s] [  0%] Built target autoware_msgs_generate_messages_cpp
+[0.270s] [  0%] Built target std_msgs_generate_messages_py
+[0.275s] [  0%] Built target autoware_msgs_generate_messages_py
+[0.290s] [  0%] Built target jsk_recognition_msgs_generate_messages_py
+[0.296s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[0.297s] [  0%] Built target std_msgs_generate_messages_nodejs
+[0.306s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[0.332s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[0.335s] [  0%] Built target tf_generate_messages_py
+[0.354s] [  0%] Built target jsk_footstep_msgs_generate_messages_py
+[0.354s] [  0%] Built target sensor_msgs_generate_messages_py
+[0.358s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[0.363s] [  0%] Built target std_msgs_generate_messages_lisp
+[0.373s] [  0%] Built target std_msgs_generate_messages_cpp
+[0.381s] [  0%] Built target geometry_msgs_generate_messages_eus
+[0.383s] [  0%] Built target roscpp_generate_messages_nodejs
+[0.398s] [  0%] Built target autoware_system_msgs_generate_messages_cpp
+[0.425s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[0.426s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[0.440s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[0.441s] [  0%] Built target jsk_recognition_msgs_generate_messages_cpp
+[0.450s] [  0%] Built target std_msgs_generate_messages_eus
+[0.464s] [  0%] Built target autoware_msgs_generate_messages_eus
+[0.471s] [  0%] Built target autoware_msgs_generate_messages_nodejs
+[0.483s] [  0%] Built target autoware_msgs_generate_messages_lisp
+[0.508s] [  0%] Built target actionlib_msgs_generate_messages_py
+[0.515s] [  0%] Built target jsk_footstep_msgs_generate_messages_eus
+[0.534s] [  0%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[0.539s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[0.544s] [  0%] Built target jsk_footstep_msgs_generate_messages_lisp
+[0.552s] [  0%] Built target jsk_footstep_msgs_generate_messages_cpp
+[0.553s] [  0%] Built target autoware_config_msgs_generate_messages_eus
+[0.554s] [  0%] Built target autoware_system_msgs_generate_messages_nodejs
+[0.608s] [  0%] Built target tf_generate_messages_eus
+[0.608s] [  0%] Built target roscpp_generate_messages_lisp
+[0.610s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[0.610s] [  0%] Built target tf_generate_messages_lisp
+[0.617s] [  0%] Built target autoware_config_msgs_generate_messages_nodejs
+[0.623s] [  0%] Built target tf_generate_messages_nodejs
+[0.637s] [  0%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[0.646s] [  0%] Built target roscpp_generate_messages_py
+[0.674s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[0.674s] [  0%] Built target autoware_config_msgs_generate_messages_cpp
+[0.674s] [  0%] Built target roscpp_generate_messages_eus
+[0.682s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[0.703s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[0.705s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[0.717s] [  0%] Built target autoware_config_msgs_generate_messages_py
+[0.731s] [  0%] Built target pcl_msgs_generate_messages_py
+[0.740s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[0.744s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[0.750s] [  0%] Built target actionlib_generate_messages_eus
+[0.769s] [  0%] Built target actionlib_generate_messages_lisp
+[0.783s] [  0%] Built target tf_generate_messages_cpp
+[0.793s] [  0%] Built target tf2_msgs_generate_messages_eus
+[0.797s] [  0%] Built target autoware_system_msgs_generate_messages_eus
+[0.797s] [  0%] Built target actionlib_generate_messages_nodejs
+[0.797s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[0.810s] [  0%] Built target actionlib_generate_messages_py
+[0.826s] [  0%] Built target tf2_msgs_generate_messages_py
+[0.826s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[0.870s] [ 20%] [32mBuilding CXX object CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o[0m
+[3.212s] In file included from [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:19:0[m[K:
+[3.212s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:111:29:[m[K [01;31m[Kerror: [m[K‘[01m[Kx[m[K’ has not been declared
+[3.212s]    double calculate_steering([01;31m[Kx[m[K, y, yaw, waypoints, v) {
+[3.212s]                              [01;31m[K^[m[K
+[3.212s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:111:32:[m[K [01;31m[Kerror: [m[K‘[01m[Ky[m[K’ has not been declared
+[3.212s]    double calculate_steering(x, [01;31m[Ky[m[K, yaw, waypoints, v) {
+[3.212s]                                 [01;31m[K^[m[K
+[3.212s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:111:35:[m[K [01;31m[Kerror: [m[K‘[01m[Kyaw[m[K’ has not been declared
+[3.213s]    double calculate_steering(x, y, [01;31m[Kyaw[m[K, waypoints, v) {
+[3.213s]                                    [01;31m[K^~~[m[K
+[3.213s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:111:40:[m[K [01;31m[Kerror: [m[K‘[01m[Kwaypoints[m[K’ has not been declared
+[3.213s]    double calculate_steering(x, y, yaw, [01;31m[Kwaypoints[m[K, v) {
+[3.213s]                                         [01;31m[K^~~~~~~~~[m[K
+[3.213s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:111:51:[m[K [01;31m[Kerror: [m[K‘[01m[Kv[m[K’ has not been declared
+[3.213s]    double calculate_steering(x, y, yaw, waypoints, [01;31m[Kv[m[K) {
+[3.213s]                                                    [01;31m[K^[m[K
+[3.213s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:128:2:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ after class definition
+[3.213s]  }
+[3.213s]   [01;31m[K^[m[K
+[3.213s]   [32m[K;[m[K
+[3.213s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:[m[K In member function ‘[01m[Kdouble Stanley::get_heading_error(geometry_msgs::Point, double)[m[K’:
+[3.213s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:73:34:[m[K [01;31m[Kerror: [m[K‘[01m[Kgeometry_msgs::Point {aka struct geometry_msgs::Point_<std::allocator<void> >}[m[K’ has no member named ‘[01m[Kat[m[K’
+[3.213s]      waypoint_delta_x = waypoints.[01;31m[Kat[m[K(1).pose.pose.position.x - waypoints.at(0).pose.pose.position.x;
+[3.213s]                                   [01;31m[K^~[m[K
+[3.214s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:73:73:[m[K [01;31m[Kerror: [m[K‘[01m[Kgeometry_msgs::Point {aka struct geometry_msgs::Point_<std::allocator<void> >}[m[K’ has no member named ‘[01m[Kat[m[K’
+[3.214s]  waypoint_delta_x = waypoints.at(1).pose.pose.position.x - waypoints.[01;31m[Kat[m[K(0).pose.pose.position.x;
+[3.214s]                                                                      [01;31m[K^~[m[K
+[3.214s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:74:34:[m[K [01;31m[Kerror: [m[K‘[01m[Kgeometry_msgs::Point {aka struct geometry_msgs::Point_<std::allocator<void> >}[m[K’ has no member named ‘[01m[Kat[m[K’
+[3.214s]      waypoint_delta_y = waypoints.[01;31m[Kat[m[K(1).pose.pose.position.y - waypoints.at(0).pose.pose.position.y;
+[3.214s]                                   [01;31m[K^~[m[K
+[3.214s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:74:73:[m[K [01;31m[Kerror: [m[K‘[01m[Kgeometry_msgs::Point {aka struct geometry_msgs::Point_<std::allocator<void> >}[m[K’ has no member named ‘[01m[Kat[m[K’
+[3.214s]  waypoint_delta_y = waypoints.at(1).pose.pose.position.y - waypoints.[01;31m[Kat[m[K(0).pose.pose.position.y;
+[3.214s]                                                                      [01;31m[K^~[m[K
+[3.214s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:79:29:[m[K [01;31m[Kerror: [m[K‘[01m[KM_[m[K’ was not declared in this scope
+[3.214s]      if (heading_error_mod > [01;31m[KM_[m[K PI/2 && heading_error_mod < M_PI) {
+[3.214s]                              [01;31m[K^~[m[K
+[3.214s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:79:29:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[KM_E[m[K’
+[3.214s]      if (heading_error_mod > [01;36m[KM_[m[K PI/2 && heading_error_mod < M_PI) {
+[3.214s]                              [01;36m[K^~[m[K
+[3.215s]                              [32m[KM_E[m[K
+[3.215s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:79:32:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K)[m[K’ before ‘[01m[KPI[m[K’
+[3.215s]      if (heading_error_mod > M_ [01;31m[KPI[m[K/2 && heading_error_mod < M_PI) {
+[3.215s]                                 [01;31m[K^~[m[K
+[3.215s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:[m[K In member function ‘[01m[Kint Stanley::get_steering_direction(float*, float*)[m[K’:
+[3.215s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:89:8:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K([m[K’ before ‘[01m[Kcorss_prod[m[K’
+[3.215s]      if [01;31m[Kcorss_prod[m[K >= 0 {
+[3.215s]         [01;31m[K^~~~~~~~~~[m[K
+[3.215s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:87:11:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kcorss_prod[m[K’ [[01;35m[K-Wunused-variable[m[K]
+[3.215s]      float [01;35m[Kcorss_prod[m[K = v1[0]*v2[1] - v1[1]*v2[0];
+[3.215s]            [01;35m[K^~~~~~~~~~[m[K
+[3.215s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:[m[K In member function ‘[01m[Kdouble Stanley::get_cte_heading_error(float)[m[K’:
+[3.215s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:105:8:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K([m[K’ before ‘[01m[Kcte_heading_error_mod[m[K’
+[3.215s]      if [01;31m[Kcte_heading_error_mod[m[K > M_PI/2 and cte_heading_error_mod < M_PI:
+[3.215s]         [01;31m[K^~~~~~~~~~~~~~~~~~~~~[m[K
+[3.215s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:108:3:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+[3.215s]    [01;35m[K}[m[K
+[3.215s]    [01;35m[K^[m[K
+[3.216s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:[m[K In member function ‘[01m[Kdouble Stanley::calculate_steering(int, int, int, int, int)[m[K’:
+[3.216s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:112:20:[m[K [01;31m[Kerror: [m[K‘[01m[Kwaypoints[m[K’ was not declared in this scope
+[3.216s]      float v1[2] = {[01;31m[Kwaypoints[m[K.at(0).pose.pose.position.x - x, waypoints.at(0).pose.pose.position.y - y};
+[3.216s]                     [01;31m[K^~~~~~~~~[m[K
+[3.216s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:112:20:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[KWayPoints[m[K’
+[3.216s]      float v1[2] = {[01;36m[Kwaypoints[m[K.at(0).pose.pose.position.x - x, waypoints.at(0).pose.pose.position.y - y};
+[3.216s]                     [01;36m[K^~~~~~~~~[m[K
+[3.216s]                     [32m[KWayPoints[m[K
+[3.216s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:112:59:[m[K [01;31m[Kerror: [m[K‘[01m[Kx[m[K’ was not declared in this scope
+[3.216s]      float v1[2] = {waypoints.at(0).pose.pose.position.x - [01;31m[Kx[m[K, waypoints.at(0).pose.pose.position.y - y};
+[3.216s]                                                            [01;31m[K^[m[K
+[3.217s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:112:101:[m[K [01;31m[Kerror: [m[K‘[01m[Ky[m[K’ was not declared in this scope
+[3.217s]  ints.at(0).pose.pose.position.x - x, waypoints.at(0).pose.pose.position.y - [01;31m[Ky[m[K};
+[3.217s]                                                                              [01;31m[K^[m[K
+[3.218s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:112:101:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Kyn[m[K’
+[3.218s]  ints.at(0).pose.pose.position.x - x, waypoints.at(0).pose.pose.position.y - [01;36m[Ky[m[K};
+[3.218s]                                                                              [01;36m[K^[m[K
+[3.218s]                                                                                                      [32m[Kyn[m[K
+[3.218s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:113:24:[m[K [01;31m[Kerror: [m[K‘[01m[Kyaw[m[K’ was not declared in this scope
+[3.218s]      float v2[2] = {cos([01;31m[Kyaw[m[K), sin(yaw)};
+[3.218s]                         [01;31m[K^~~[m[K
+[3.219s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:120:72:[m[K [01;31m[Kerror: [m[K‘[01m[Kv[m[K’ was not declared in this scope
+[3.219s]      cte_error = get_steering_direction(v1, v2) * get_cte_heading_error([01;31m[Kv[m[K);
+[3.219s]                                                                         [01;31m[K^[m[K
+[3.220s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:120:72:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Kv2[m[K’
+[3.220s]      cte_error = get_steering_direction(v1, v2) * get_cte_heading_error([01;36m[Kv[m[K);
+[3.220s]                                                                         [01;36m[K^[m[K
+[3.220s]                                                                         [32m[Kv2[m[K
+[4.217s] make[2]: *** [CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o] Error 1
+[4.217s] CMakeFiles/pure_pursuit.dir/build.make:110: recipe for target 'CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o' failed
+[4.217s] make[1]: *** [CMakeFiles/pure_pursuit.dir/all] Error 2
+[4.217s] CMakeFiles/Makefile2:444: recipe for target 'CMakeFiles/pure_pursuit.dir/all' failed
+[4.218s] Makefile:140: recipe for target 'all' failed
+[4.218s] make: *** [all] Error 2
+[4.220s] Invoked command in '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/build/pure_pursuit' returned '2': CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/build/pure_pursuit -- -j8 -l8

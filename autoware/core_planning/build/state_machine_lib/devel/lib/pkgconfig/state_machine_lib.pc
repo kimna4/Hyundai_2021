@@ -1,0 +1,8 @@
+prefix=/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/build/state_machine_lib/devel
+
+Name: state_machine_lib
+Description: Description of state_machine_lib
+Version: 1.12.0
+Cflags: -I/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/state_machine_lib/include
+Libs: -L${prefix}/lib -lstate_machine_lib
+Requires: 

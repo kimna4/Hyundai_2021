@@ -1,0 +1,34 @@
+[3.897s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K In member function ‘[01m[Kvoid waypoint_follower::PurePursuitNode::run()[m[K’:
+[3.897s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:187:41:[m[K [01;31m[Kerror: [m[Kcannot convert ‘[01m[Kgeometry_msgs::Pose_<std::allocator<void> >::_orientation_type {aka geometry_msgs::Quaternion_<std::allocator<void> >}[m[K’ to ‘[01m[Kdouble[m[K’ in initialization
+[3.897s]      double cur_q = pp_.getCurrentPose().[01;31m[Korientation[m[K;
+[3.897s]                                          [01;31m[K^~~~~~~~~~~[m[K
+[3.897s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:189:35:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[Kw[m[K’ in ‘[01m[Kcur_q[m[K’, which is of non-class type ‘[01m[Kdouble[m[K’
+[3.897s]      double siny_cosp = 2 * (cur_q.[01;31m[Kw[m[K * cur_q.z + cur_q.x * cur_q.y);
+[3.897s]                                    [01;31m[K^[m[K
+[3.897s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:189:45:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[Kz[m[K’ in ‘[01m[Kcur_q[m[K’, which is of non-class type ‘[01m[Kdouble[m[K’
+[3.898s]      double siny_cosp = 2 * (cur_q.w * cur_q.[01;31m[Kz[m[K + cur_q.x * cur_q.y);
+[3.898s]                                              [01;31m[K^[m[K
+[3.898s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:189:55:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[Kx[m[K’ in ‘[01m[Kcur_q[m[K’, which is of non-class type ‘[01m[Kdouble[m[K’
+[3.898s]      double siny_cosp = 2 * (cur_q.w * cur_q.z + cur_q.[01;31m[Kx[m[K * cur_q.y);
+[3.898s]                                                        [01;31m[K^[m[K
+[3.898s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:189:65:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[Ky[m[K’ in ‘[01m[Kcur_q[m[K’, which is of non-class type ‘[01m[Kdouble[m[K’
+[3.898s]      double siny_cosp = 2 * (cur_q.w * cur_q.z + cur_q.x * cur_q.[01;31m[Ky[m[K);
+[3.898s]                                                                  [01;31m[K^[m[K
+[3.898s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:190:39:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[Ky[m[K’ in ‘[01m[Kcur_q[m[K’, which is of non-class type ‘[01m[Kdouble[m[K’
+[3.898s]      double cosy_cosp = 1 - 2 * (cur_q.[01;31m[Ky[m[K * cur_q.y + cur_q.z * cur_q.z);
+[3.899s]                                        [01;31m[K^[m[K
+[3.899s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:190:49:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[Ky[m[K’ in ‘[01m[Kcur_q[m[K’, which is of non-class type ‘[01m[Kdouble[m[K’
+[3.899s]      double cosy_cosp = 1 - 2 * (cur_q.y * cur_q.[01;31m[Ky[m[K + cur_q.z * cur_q.z);
+[3.899s]                                                  [01;31m[K^[m[K
+[3.899s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:190:59:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[Kz[m[K’ in ‘[01m[Kcur_q[m[K’, which is of non-class type ‘[01m[Kdouble[m[K’
+[3.899s]      double cosy_cosp = 1 - 2 * (cur_q.y * cur_q.y + cur_q.[01;31m[Kz[m[K * cur_q.z);
+[3.899s]                                                            [01;31m[K^[m[K
+[3.899s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:190:69:[m[K [01;31m[Kerror: [m[Krequest for member ‘[01m[Kz[m[K’ in ‘[01m[Kcur_q[m[K’, which is of non-class type ‘[01m[Kdouble[m[K’
+[3.899s]      double cosy_cosp = 1 - 2 * (cur_q.y * cur_q.y + cur_q.z * cur_q.[01;31m[Kz[m[K);
+[3.899s]                                                                      [01;31m[K^[m[K
+[3.899s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:191:23:[m[K [01;31m[Kerror: [m[Kexpected primary-expression before ‘[01m[K=[m[K’ token
+[3.900s]      double cur_yaw = s[01;31m[Kt[m[Kd::atan2(siny_cosp, cosy_cosp);
+[3.900s]                        [01;31m[K^[m[K
+[5.158s] make[2]: *** [CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o] Error 1
+[5.158s] make[1]: *** [CMakeFiles/pure_pursuit.dir/all] Error 2
+[5.159s] make: *** [all] Error 2

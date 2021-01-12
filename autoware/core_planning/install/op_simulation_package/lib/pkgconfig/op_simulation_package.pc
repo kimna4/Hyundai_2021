@@ -1,0 +1,8 @@
+prefix=/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/op_simulation_package
+
+Name: op_simulation_package
+Description: Description of op_simulation_package
+Version: 1.12.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

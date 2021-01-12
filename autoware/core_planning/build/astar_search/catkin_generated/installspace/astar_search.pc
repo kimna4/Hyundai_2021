@@ -1,0 +1,8 @@
+prefix=/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/astar_search
+
+Name: astar_search
+Description: Description of astar_search
+Version: 1.12.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lastar_search
+Requires: 

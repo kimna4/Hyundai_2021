@@ -1,0 +1,12 @@
+[3.516s] In file included from [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:19:0[m[K:
+[3.516s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:[m[K In member function ‘[01m[Kdouble Stanley::calculate_steering(double, double, double, std::vector<autoware_msgs::Waypoint_<std::allocator<void> >, std::allocator<autoware_msgs::Waypoint_<std::allocator<void> > > >, double)[m[K’:
+[3.516s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:128:5:[m[K [01;31m[Kerror: [m[K‘[01m[Ksteer[m[K’ was not declared in this scope
+[3.516s]      [01;31m[Ksteer[m[K = fmax(fmin(steering, 1.0), -1.0);
+[3.516s]      [01;31m[K^~~~~[m[K
+[3.518s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:128:5:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Ksleep[m[K’
+[3.518s]      [01;36m[Ksteer[m[K = fmax(fmin(steering, 1.0), -1.0);
+[3.518s]      [01;36m[K^~~~~[m[K
+[3.518s]      [32m[Ksleep[m[K
+[4.621s] make[2]: *** [CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o] Error 1
+[4.621s] make[1]: *** [CMakeFiles/pure_pursuit.dir/all] Error 2
+[4.622s] make: *** [all] Error 2

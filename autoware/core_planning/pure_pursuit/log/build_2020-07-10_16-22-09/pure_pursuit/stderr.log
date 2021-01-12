@@ -1,0 +1,25 @@
+[3.725s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K In member function ‘[01m[Kvoid waypoint_follower::PurePursuitNode::run()[m[K’:
+[3.725s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:132:5:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K,[m[K’ or ‘[01m[K;[m[K’ before ‘[01m[Kdirection[m[K’
+[3.725s]      [01;31m[Kdirection[m[K = is_left ? 1 : -1;
+[3.725s]      [01;31m[K^~~~~~~~~[m[K
+[3.725s] In file included from [01m[K/opt/ros/melodic/include/ros/ros.h:40:0[m[K,
+[3.725s]                  from [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/pure_pursuit_core.h:23[m[K,
+[3.725s]                  from [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:18[m[K:
+[3.725s] [01m[K/opt/ros/melodic/include/ros/console.h:401:3:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K,[m[K’ or ‘[01m[K;[m[K’ before ‘[01m[Kdo[m[K’
+[3.726s]    [01;31m[Kd[m[Ko \
+[3.726s]    [01;31m[K^[m[K
+[3.726s] [01m[K/opt/ros/melodic/include/ros/console.h:579:43:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_STREAM_COND[m[K’
+[3.726s]  #define ROS_LOG_STREAM(level, name, args) [01;36m[KROS_LOG_STREAM_COND[m[K(true, level, name, args)
+[3.726s]                                            [01;36m[K^~~~~~~~~~~~~~~~~~~[m[K
+[3.726s] [01m[K/opt/ros/melodic/include/rosconsole/macros_generated.h:163:31:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_STREAM[m[K’
+[3.726s]  #define ROS_WARN_STREAM(args) [01;36m[KROS_LOG_STREAM[m[K(::ros::console::levels::Warn, ROSCONSOLE_DEFAULT_NAME, args)
+[3.726s]                                [01;36m[K^~~~~~~~~~~~~~[m[K
+[3.726s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:136:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_WARN_STREAM[m[K’
+[3.726s]      [01;36m[KR[m[KOS_WARN_STREAM(direction_tune);
+[3.726s]      [01;36m[K^[m[K
+[3.730s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:129:11:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kis_left[m[K’ [[01;35m[K-Wunused-variable[m[K]
+[3.730s]      float [01;35m[Kis_left[m[K = (vec1_x * vec2_y) - (vec1_y * vec2_x);
+[3.730s]            [01;35m[K^~~~~~~[m[K
+[4.053s] make[2]: *** [CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o] Interrupt
+[4.054s] make[1]: *** [CMakeFiles/pure_pursuit.dir/all] Interrupt
+[4.054s] make: *** [all] Interrupt

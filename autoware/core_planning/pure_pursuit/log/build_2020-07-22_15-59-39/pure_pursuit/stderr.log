@@ -1,0 +1,12 @@
+[2.844s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K In member function ‘[01m[Kdouble waypoint_follower::PurePursuitNode::computeCommandAccel() const[m[K’:
+[2.844s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:343:57:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K,[m[K’ or ‘[01m[K;[m[K’ before ‘[01m[K)[m[K’ token
+[2.844s]          current_pose.position.y - target_pose.position.y[01;31m[K)[m[K;
+[2.844s]                                                          [01;31m[K^[m[K
+[2.844s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K At global scope:
+[2.844s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:350:17:[m[K [01;31m[Kerror: [m[Kexpected constructor, destructor, or type conversion before ‘[01m[K([m[K’ token
+[2.844s]        std::hypot[01;31m[K([m[Kcurrent_pose.position.x - target_pose.position.x,
+[2.844s]                  [01;31m[K^[m[K
+[3.719s] make[2]: *** [CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o] Error 1
+[3.719s] make[2]: *** Waiting for unfinished jobs....
+[4.683s] make[1]: *** [CMakeFiles/pure_pursuit.dir/all] Error 2
+[4.683s] make: *** [all] Error 2

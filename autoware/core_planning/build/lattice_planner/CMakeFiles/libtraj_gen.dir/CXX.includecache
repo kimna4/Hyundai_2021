@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/lattice_planner/include/libtraj_gen.h
+
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/lattice_planner/lib/libtraj_gen.cpp
+iostream
+-
+vector
+-
+armadillo
+-
+cmath
+-
+algorithm
+-
+iostream
+-
+fstream
+-
+stdlib.h
+-
+stdio.h
+-
+libtraj_gen.h
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/lattice_planner/lib/libtraj_gen.h
+

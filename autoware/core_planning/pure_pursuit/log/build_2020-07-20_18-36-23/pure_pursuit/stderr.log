@@ -1,0 +1,16 @@
+[3.577s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K In member function ‘[01m[Kvoid waypoint_follower::PurePursuitNode::run()[m[K’:
+[3.577s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:214:58:[m[K [01;31m[Kerror: [m[Kexpected primary-expression before ‘[01m[Kdouble[m[K’
+[3.577s]      stanley.get_heading_error(pp_.getCurrentWaypoints(), [01;31m[Kdouble[m[K cur_yaw)
+[3.577s]                                                           [01;31m[K^~~~~~[m[K
+[3.584s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:165:11:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kdistance[m[K’ [[01;35m[K-Wunused-variable[m[K]
+[3.584s]      float [01;35m[Kdistance[m[K = sqrt((cur_x - way_x) * (cur_x - way_x) + (cur_y - way_y) * (cur_y - way_y));
+[3.584s]            [01;35m[K^~~~~~~~[m[K
+[3.584s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:197:11:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kdirection_tune[m[K’ [[01;35m[K-Wunused-variable[m[K]
+[3.584s]      float [01;35m[Kdirection_tune[m[K = tan(atan(wheel_base_ * kappa) + steering_tune) / wheel_base_;
+[3.585s]            [01;35m[K^~~~~~~~~~~~~~[m[K
+[3.585s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:211:12:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kheading_error[m[K’ [[01;35m[K-Wunused-variable[m[K]
+[3.585s]      double [01;35m[Kheading_error[m[K = stanley.calculate_steering(cur_x, cur_y, cur_yaw, pp_.getCurrentWaypoints(), pp_.getCurrentVelocity());
+[3.585s]             [01;35m[K^~~~~~~~~~~~~[m[K
+[4.687s] make[2]: *** [CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o] Error 1
+[4.687s] make[1]: *** [CMakeFiles/pure_pursuit.dir/all] Error 2
+[4.687s] make: *** [all] Error 2

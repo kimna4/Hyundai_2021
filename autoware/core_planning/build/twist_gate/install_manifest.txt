@@ -1,0 +1,5 @@
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/twist_gate/lib/pkgconfig/twist_gate.pc
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/twist_gate/share/twist_gate/cmake/twist_gateConfig.cmake
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/twist_gate/share/twist_gate/cmake/twist_gateConfig-version.cmake
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/twist_gate/share/twist_gate/package.xml
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/twist_gate/lib/twist_gate/twist_gate

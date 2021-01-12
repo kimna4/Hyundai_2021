@@ -1,0 +1,7 @@
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/astar_search/lib/pkgconfig/astar_search.pc
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/astar_search/share/astar_search/cmake/astar_searchConfig.cmake
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/astar_search/share/astar_search/cmake/astar_searchConfig-version.cmake
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/astar_search/share/astar_search/package.xml
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/astar_search/include/astar_search/astar_search.h
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/astar_search/include/astar_search/astar_util.h
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/astar_search/lib/libastar_search.so

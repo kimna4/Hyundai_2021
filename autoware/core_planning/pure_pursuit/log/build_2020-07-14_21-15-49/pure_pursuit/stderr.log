@@ -1,0 +1,26 @@
+[2.020s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:156:5:[m[K [01;35m[Kwarning: [m[K"/*" within comment [[01;35m[K-Wcomment[m[K]
+[2.020s]      /*else if(fabs(direction_tune) > 0.05) {
+[2.020s]       
+[3.711s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K In member function ‘[01m[Kvoid waypoint_follower::PurePursuitNode::run()[m[K’:
+[3.711s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:163:2:[m[K [01;31m[Kerror: [m[Kexpected primary-expression before ‘[01m[K/[m[K’ token
+[3.712s]  *[01;31m[K/[m[K
+[3.712s]   [01;31m[K^[m[K
+[3.712s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:165:5:[m[K [01;31m[Kerror: [m[Kexpected primary-expression before ‘[01m[Kfloat[m[K’
+[3.712s]      [01;31m[Kfloat[m[K cur_x = pp_.getCurrentPose().position.x;
+[3.712s]      [01;31m[K^~~~~[m[K
+[3.712s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:169:48:[m[K [01;31m[Kerror: [m[Kcannot convert ‘[01m[Kgeometry_msgs::Point {aka geometry_msgs::Point_<std::allocator<void> >}[m[K’ to ‘[01m[Kfloat[m[K’ in initialization
+[3.712s]      float target_x = pp_.getPoseOfNextWaypoint([01;31m[K)[m[K;
+[3.712s]                                                 [01;31m[K^[m[K
+[3.712s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:170:48:[m[K [01;31m[Kerror: [m[Kcannot convert ‘[01m[Kgeometry_msgs::Point {aka geometry_msgs::Point_<std::allocator<void> >}[m[K’ to ‘[01m[Kfloat[m[K’ in initialization
+[3.712s]      float target_y = pp_.getPoseOfNextWaypoint([01;31m[K)[m[K;
+[3.712s]                                                 [01;31m[K^[m[K
+[3.712s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:172:35:[m[K [01;31m[Kerror: [m[K‘[01m[Kcur_x[m[K’ was not declared in this scope
+[3.712s]      float cur_way_vec_x = way_x - [01;31m[Kcur_x[m[K;
+[3.713s]                                    [01;31m[K^~~~~[m[K
+[3.714s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:172:35:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Kcur_y[m[K’
+[3.714s]      float cur_way_vec_x = way_x - [01;36m[Kcur_x[m[K;
+[3.714s]                                    [01;36m[K^~~~~[m[K
+[3.714s]                                    [32m[Kcur_y[m[K
+[4.902s] make[2]: *** [CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o] Error 1
+[4.902s] make[1]: *** [CMakeFiles/pure_pursuit.dir/all] Error 2
+[4.902s] make: *** [all] Error 2

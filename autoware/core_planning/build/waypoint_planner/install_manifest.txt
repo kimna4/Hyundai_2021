@@ -1,0 +1,11 @@
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/waypoint_planner/lib/pkgconfig/waypoint_planner.pc
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/waypoint_planner/share/waypoint_planner/cmake/waypoint_plannerConfig.cmake
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/waypoint_planner/share/waypoint_planner/cmake/waypoint_plannerConfig-version.cmake
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/waypoint_planner/share/waypoint_planner/package.xml
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/waypoint_planner/lib/waypoint_planner/astar_avoid
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/waypoint_planner/lib/waypoint_planner/velocity_set
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/waypoint_planner/lib/waypoint_planner/velocity_set_lanelet2
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/waypoint_planner/share/waypoint_planner/launch/velocity_set.launch
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/waypoint_planner/share/waypoint_planner/launch/astar_avoid.launch
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/waypoint_planner/share/waypoint_planner/launch/velocity_set_lanelet2.launch
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/waypoint_planner/share/waypoint_planner/launch/velocity_set_option.launch

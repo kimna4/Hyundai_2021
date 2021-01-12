@@ -1,0 +1,8 @@
+prefix=/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/mpc_follower
+
+Name: mpc_follower
+Description: Description of mpc_follower
+Version: 1.12.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

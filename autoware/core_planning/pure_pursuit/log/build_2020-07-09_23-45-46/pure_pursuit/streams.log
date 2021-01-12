@@ -1,0 +1,395 @@
+[0.033s] Invoking command in '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/build/pure_pursuit': CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/build/pure_pursuit -- -j8 -l8
+[0.155s] [  0%] Built target geometry_msgs_generate_messages_py
+[0.155s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[0.161s] [  0%] Built target autoware_config_msgs_generate_messages_lisp
+[0.164s] [  0%] Built target jsk_recognition_msgs_generate_messages_lisp
+[0.166s] [  0%] Built target autoware_system_msgs_generate_messages_lisp
+[0.166s] [  0%] Built target jsk_recognition_msgs_generate_messages_eus
+[0.179s] [  0%] Built target pcl_msgs_generate_messages_eus
+[0.215s] [  0%] Built target actionlib_generate_messages_cpp
+[0.251s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[0.255s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[0.260s] [  0%] Built target roscpp_generate_messages_cpp
+[0.265s] [  0%] Built target autoware_msgs_generate_messages_cpp
+[0.266s] [  0%] Built target _catkin_empty_exported_target
+[0.272s] [  0%] Built target autoware_system_msgs_generate_messages_py
+[0.286s] [  0%] Built target sensor_msgs_generate_messages_eus
+[0.317s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[0.332s] [  0%] Built target std_msgs_generate_messages_py
+[0.339s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[0.361s] [  0%] Built target autoware_msgs_generate_messages_py
+[0.387s] [  0%] Built target std_msgs_generate_messages_nodejs
+[0.388s] [  0%] Built target jsk_recognition_msgs_generate_messages_py
+[0.406s] [  0%] Built target tf_generate_messages_py
+[0.429s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[0.432s] [  0%] Built target sensor_msgs_generate_messages_py
+[0.439s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[0.453s] [  0%] Built target jsk_footstep_msgs_generate_messages_py
+[0.477s] [  0%] Built target std_msgs_generate_messages_cpp
+[0.490s] [  0%] Built target geometry_msgs_generate_messages_eus
+[0.513s] [  0%] Built target std_msgs_generate_messages_lisp
+[0.520s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[0.532s] [  0%] Built target autoware_system_msgs_generate_messages_cpp
+[0.538s] [  0%] Built target roscpp_generate_messages_nodejs
+[0.558s] [  0%] Built target jsk_recognition_msgs_generate_messages_cpp
+[0.560s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[0.564s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[0.569s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[0.607s] [  0%] Built target autoware_msgs_generate_messages_eus
+[0.650s] [  0%] Built target jsk_footstep_msgs_generate_messages_eus
+[0.666s] [  0%] Built target autoware_msgs_generate_messages_nodejs
+[0.673s] [  0%] Built target std_msgs_generate_messages_eus
+[0.682s] [  0%] Built target jsk_footstep_msgs_generate_messages_lisp
+[0.684s] [  0%] Built target autoware_msgs_generate_messages_lisp
+[0.689s] [  0%] Built target autoware_config_msgs_generate_messages_eus
+[0.694s] [  0%] Built target actionlib_msgs_generate_messages_py
+[0.716s] [  0%] Built target autoware_system_msgs_generate_messages_nodejs
+[0.718s] [  0%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[0.756s] [  0%] Built target tf_generate_messages_lisp
+[0.760s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[0.767s] [  0%] Built target jsk_footstep_msgs_generate_messages_cpp
+[0.779s] [  0%] Built target tf_generate_messages_eus
+[0.780s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[0.800s] [  0%] Built target autoware_config_msgs_generate_messages_nodejs
+[0.800s] [  0%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[0.808s] [  0%] Built target tf_generate_messages_nodejs
+[0.846s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[0.862s] [  0%] Built target roscpp_generate_messages_lisp
+[0.880s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[0.887s] [  0%] Built target autoware_config_msgs_generate_messages_cpp
+[0.887s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[0.890s] [  0%] Built target roscpp_generate_messages_py
+[0.898s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[0.908s] [  0%] Built target roscpp_generate_messages_eus
+[0.926s] [  0%] Built target autoware_config_msgs_generate_messages_py
+[0.973s] [  0%] Built target actionlib_generate_messages_lisp
+[0.987s] [  0%] Built target actionlib_generate_messages_eus
+[0.993s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[0.997s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[1.004s] [  0%] Built target autoware_system_msgs_generate_messages_eus
+[1.020s] [  0%] Built target tf_generate_messages_cpp
+[1.024s] [  0%] Built target pcl_msgs_generate_messages_py
+[1.030s] [  0%] Built target actionlib_generate_messages_nodejs
+[1.045s] [  0%] Built target tf2_msgs_generate_messages_eus
+[1.050s] [  0%] Built target actionlib_generate_messages_py
+[1.070s] [  0%] Built target tf2_msgs_generate_messages_py
+[1.071s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[1.073s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[1.127s] [ 20%] [32mBuilding CXX object CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o[0m
+[3.707s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K In member function ‘[01m[Kvoid waypoint_follower::PurePursuitNode::run()[m[K’:
+[3.707s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:155:11:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kis_left[m[K’ [[01;35m[K-Wunused-variable[m[K]
+[3.707s]      float [01;35m[Kis_left[m[K = (vec1_x * vec2_y) - (vec1_y * vec2_x);
+[3.707s]            [01;35m[K^~~~~~~[m[K
+[3.707s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:163:23:[m[K [01;31m[Kerror: [m[K‘[01m[Kcur_x[m[K’ was not declared in this scope
+[3.707s]      float distance = ([01;31m[Kcur_x[m[K - way_x) * (cur_x - way_x) + (cur_y - way_y) * (cur_y - way_y);
+[3.707s]                        [01;31m[K^~~~~[m[K
+[3.708s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:163:31:[m[K [01;31m[Kerror: [m[K‘[01m[Kway_x[m[K’ was not declared in this scope
+[3.708s]      float distance = (cur_x - [01;31m[Kway_x[m[K) * (cur_x - way_x) + (cur_y - way_y) * (cur_y - way_y);
+[3.709s]                                [01;31m[K^~~~~[m[K
+[3.710s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:163:59:[m[K [01;31m[Kerror: [m[K‘[01m[Kcur_y[m[K’ was not declared in this scope
+[3.710s]      float distance = (cur_x - way_x) * (cur_x - way_x) + ([01;31m[Kcur_y[m[K - way_y) * (cur_y - way_y);
+[3.710s]                                                            [01;31m[K^~~~~[m[K
+[3.711s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:163:67:[m[K [01;31m[Kerror: [m[K‘[01m[Kway_y[m[K’ was not declared in this scope
+[3.711s]      float distance = (cur_x - way_x) * (cur_x - way_x) + (cur_y - [01;31m[Kway_y[m[K) * (cur_y - way_y);
+[3.712s]                                                                    [01;31m[K^~~~~[m[K
+[3.714s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:168:20:[m[K [01;31m[Kerror: [m[K‘[01m[Kangular_gravity_msg[m[K’ was not declared in this scope
+[3.714s]      pub16_.publish([01;31m[Kangular_gravity_msg[m[K);
+[3.714s]                     [01;31m[K^~~~~~~~~~~~~~~~~~~[m[K
+[3.725s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K At global scope:
+[3.725s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:180:6:[m[K [01;31m[Kerror: [m[K‘[01m[KPurePursuitNode[m[K’ has not been declared
+[3.725s]  void [01;31m[KPurePursuitNode[m[K::publishTwistStamped(
+[3.725s]       [01;31m[K^~~~~~~~~~~~~~~[m[K
+[3.725s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:181:55:[m[K [01;31m[Kerror: [m[Knon-member function ‘[01m[Kvoid publishTwistStamped(const bool&, const double&)[m[K’ cannot have cv-qualifier
+[3.725s]    const bool& can_get_curvature, const double& kappa) [01;31m[Kconst[m[K
+[3.725s]                                                        [01;31m[K^~~~~[m[K
+[3.726s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K In function ‘[01m[Kvoid publishTwistStamped(const bool&, const double&)[m[K’:
+[3.726s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:185:43:[m[K [01;31m[Kerror: [m[K‘[01m[KcomputeCommandVelocity[m[K’ was not declared in this scope
+[3.726s]    ts.twist.linear.x = can_get_curvature ? [01;31m[KcomputeCommandVelocity[m[K() : 0;
+[3.726s]                                            [01;31m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[3.736s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:187:3:[m[K [01;31m[Kerror: [m[K‘[01m[Kpub1_[m[K’ was not declared in this scope
+[3.736s]    [01;31m[Kpub1_[m[K.publish(ts);
+[3.736s]    [01;31m[K^~~~~[m[K
+[3.738s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K At global scope:
+[3.739s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:190:6:[m[K [01;31m[Kerror: [m[K‘[01m[KPurePursuitNode[m[K’ has not been declared
+[3.739s]  void [01;31m[KPurePursuitNode[m[K::publishControlCommandStamped(
+[3.739s]       [01;31m[K^~~~~~~~~~~~~~~[m[K
+[3.739s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:191:55:[m[K [01;31m[Kerror: [m[Knon-member function ‘[01m[Kvoid publishControlCommandStamped(const bool&, const double&)[m[K’ cannot have cv-qualifier
+[3.739s]    const bool& can_get_curvature, const double& kappa) [01;31m[Kconst[m[K
+[3.739s]                                                        [01;31m[K^~~~~[m[K
+[3.739s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K In function ‘[01m[Kvoid publishControlCommandStamped(const bool&, const double&)[m[K’:
+[3.739s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:193:8:[m[K [01;31m[Kerror: [m[K‘[01m[Kpublishes_for_steering_robot_[m[K’ was not declared in this scope
+[3.739s]    if (![01;31m[Kpublishes_for_steering_robot_[m[K)
+[3.739s]         [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[3.760s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:200:49:[m[K [01;31m[Kerror: [m[K‘[01m[KcomputeCommandVelocity[m[K’ was not declared in this scope
+[3.760s]    ccs.cmd.linear_velocity = can_get_curvature ? [01;31m[KcomputeCommandVelocity[m[K() : 0;
+[3.760s]                                                  [01;31m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[3.775s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:201:53:[m[K [01;31m[Kerror: [m[K‘[01m[KcomputeCommandAccel[m[K’ was not declared in this scope
+[3.775s]    ccs.cmd.linear_acceleration = can_get_curvature ? [01;31m[KcomputeCommandAccel[m[K() : 0;
+[3.776s]                                                      [01;31m[K^~~~~~~~~~~~~~~~~~~[m[K
+[3.786s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:203:57:[m[K [01;31m[Kerror: [m[K‘[01m[Kwheel_base_[m[K’ was not declared in this scope
+[3.787s]      can_get_curvature ? convertCurvatureToSteeringAngle([01;31m[Kwheel_base_[m[K, kappa) : 0;
+[3.787s]                                                          [01;31m[K^~~~~~~~~~~[m[K
+[3.791s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:203:25:[m[K [01;31m[Kerror: [m[K‘[01m[KconvertCurvatureToSteeringAngle[m[K’ was not declared in this scope
+[3.791s]      can_get_curvature ? [01;31m[KconvertCurvatureToSteeringAngle[m[K(wheel_base_, kappa) : 0;
+[3.791s]                          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[3.791s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:203:25:[m[K [01;36m[Knote: [m[Ksuggested alternative:
+[3.791s] In file included from [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:18:0[m[K:
+[3.791s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/pure_pursuit_core.h:128:8:[m[K [01;36m[Knote: [m[K  ‘[01m[Kwaypoint_follower::convertCurvatureToSteeringAngle[m[K’
+[3.791s]  double [01;36m[KconvertCurvatureToSteeringAngle[m[K(
+[3.792s]         [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[3.792s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:205:3:[m[K [01;31m[Kerror: [m[K‘[01m[Kpub2_[m[K’ was not declared in this scope
+[3.792s]    [01;31m[Kpub2_[m[K.publish(ccs);
+[3.792s]    [01;31m[K^~~~~[m[K
+[3.793s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K At global scope:
+[3.794s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:208:8:[m[K [01;31m[Kerror: [m[K‘[01m[KPurePursuitNode[m[K’ has not been declared
+[3.794s]  double [01;31m[KPurePursuitNode[m[K::computeLookaheadDistance() const
+[3.794s]         [01;31m[K^~~~~~~~~~~~~~~[m[K
+[3.794s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:208:52:[m[K [01;31m[Kerror: [m[Knon-member function ‘[01m[Kdouble computeLookaheadDistance()[m[K’ cannot have cv-qualifier
+[3.794s]  double PurePursuitNode::computeLookaheadDistance() [01;31m[Kconst[m[K
+[3.794s]                                                     [01;31m[K^~~~~[m[K
+[3.795s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K In function ‘[01m[Kdouble computeLookaheadDistance()[m[K’:
+[3.795s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:210:7:[m[K [01;31m[Kerror: [m[K‘[01m[Kvelocity_source_[m[K’ was not declared in this scope
+[3.795s]    if ([01;31m[Kvelocity_source_[m[K == enumToInteger(Mode::dialog))
+[3.795s]        [01;31m[K^~~~~~~~~~~~~~~~[m[K
+[3.806s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:210:41:[m[K [01;31m[Kerror: [m[K‘[01m[KMode[m[K’ has not been declared
+[3.806s]    if (velocity_source_ == enumToInteger([01;31m[KMode[m[K::dialog))
+[3.806s]                                          [01;31m[K^~~~[m[K
+[3.806s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:210:27:[m[K [01;31m[Kerror: [m[K‘[01m[KenumToInteger[m[K’ was not declared in this scope
+[3.806s]    if (velocity_source_ == [01;31m[KenumToInteger[m[K(Mode::dialog))
+[3.806s]                            [01;31m[K^~~~~~~~~~~~~[m[K
+[3.806s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:210:27:[m[K [01;36m[Knote: [m[Ksuggested alternative:
+[3.806s] In file included from [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:18:0[m[K:
+[3.806s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/pure_pursuit_core.h:50:40:[m[K [01;36m[Knote: [m[K  ‘[01m[Kwaypoint_follower::enumToInteger[m[K’
+[3.806s]  typename std::underlying_type<T>::type [01;36m[KenumToInteger[m[K(T t)
+[3.806s]                                         [01;36m[K^~~~~~~~~~~~~[m[K
+[3.807s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:212:12:[m[K [01;31m[Kerror: [m[K‘[01m[Kconst_lookahead_distance_[m[K’ was not declared in this scope
+[3.807s]      return [01;31m[Kconst_lookahead_distance_[m[K;
+[3.807s]             [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[3.819s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:212:12:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[KcomputeLookaheadDistance[m[K’
+[3.819s]      return [01;36m[Kconst_lookahead_distance_[m[K;
+[3.819s]             [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[3.819s]             [32m[KcomputeLookaheadDistance[m[K
+[3.819s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:215:39:[m[K [01;31m[Kerror: [m[K‘[01m[Kcurrent_linear_velocity_[m[K’ was not declared in this scope
+[3.819s]    double maximum_lookahead_distance = [01;31m[Kcurrent_linear_velocity_[m[K * 10;
+[3.820s]                                        [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[3.838s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:216:42:[m[K [01;31m[Kerror: [m[K‘[01m[Klookahead_distance_ratio_[m[K’ was not declared in this scope
+[3.838s]    double ld = current_linear_velocity_ * [01;31m[Klookahead_distance_ratio_[m[K;
+[3.838s]                                           [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[3.858s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:218:15:[m[K [01;31m[Kerror: [m[K‘[01m[Kminimum_lookahead_distance_[m[K’ was not declared in this scope
+[3.858s]    return ld < [01;31m[Kminimum_lookahead_distance_[m[K ? minimum_lookahead_distance_ :
+[3.858s]                [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[3.864s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:218:15:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Kmaximum_lookahead_distance[m[K’
+[3.864s]    return ld < [01;36m[Kminimum_lookahead_distance_[m[K ? minimum_lookahead_distance_ :
+[3.864s]                [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[3.864s]                [32m[Kmaximum_lookahead_distance[m[K
+[3.864s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K At global scope:
+[3.864s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:222:5:[m[K [01;31m[Kerror: [m[K‘[01m[KPurePursuitNode[m[K’ has not been declared
+[3.864s]  int [01;31m[KPurePursuitNode[m[K::getSgn() const
+[3.864s]      [01;31m[K^~~~~~~~~~~~~~~[m[K
+[3.864s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:222:31:[m[K [01;31m[Kerror: [m[Knon-member function ‘[01m[Kint getSgn()[m[K’ cannot have cv-qualifier
+[3.864s]  int PurePursuitNode::getSgn() [01;31m[Kconst[m[K
+[3.864s]                                [01;31m[K^~~~~[m[K
+[3.864s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K In function ‘[01m[Kint getSgn()[m[K’:
+[3.865s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:225:7:[m[K [01;31m[Kerror: [m[K‘[01m[Kdirection_[m[K’ was not declared in this scope
+[3.865s]    if ([01;31m[Kdirection_[m[K == LaneDirection::Forward)
+[3.865s]        [01;31m[K^~~~~~~~~~[m[K
+[3.867s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:225:7:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[KLaneDirection[m[K’
+[3.868s]    if ([01;36m[Kdirection_[m[K == LaneDirection::Forward)
+[3.868s]        [01;36m[K^~~~~~~~~~[m[K
+[3.868s]        [32m[KLaneDirection[m[K
+[3.868s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K At global scope:
+[3.868s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:236:8:[m[K [01;31m[Kerror: [m[K‘[01m[KPurePursuitNode[m[K’ has not been declared
+[3.868s]  double [01;31m[KPurePursuitNode[m[K::computeCommandVelocity() const
+[3.868s]         [01;31m[K^~~~~~~~~~~~~~~[m[K
+[3.868s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:236:50:[m[K [01;31m[Kerror: [m[Knon-member function ‘[01m[Kdouble computeCommandVelocity()[m[K’ cannot have cv-qualifier
+[3.868s]  double PurePursuitNode::computeCommandVelocity() [01;31m[Kconst[m[K
+[3.868s]                                                   [01;31m[K^~~~~[m[K
+[3.868s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K In function ‘[01m[Kdouble computeCommandVelocity()[m[K’:
+[3.868s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:238:7:[m[K [01;31m[Kerror: [m[K‘[01m[Kvelocity_source_[m[K’ was not declared in this scope
+[3.868s]    if ([01;31m[Kvelocity_source_[m[K == enumToInteger(Mode::dialog))
+[3.868s]        [01;31m[K^~~~~~~~~~~~~~~~[m[K
+[3.879s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:238:41:[m[K [01;31m[Kerror: [m[K‘[01m[KMode[m[K’ has not been declared
+[3.879s]    if (velocity_source_ == enumToInteger([01;31m[KMode[m[K::dialog))
+[3.879s]                                          [01;31m[K^~~~[m[K
+[3.879s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:238:27:[m[K [01;31m[Kerror: [m[K‘[01m[KenumToInteger[m[K’ was not declared in this scope
+[3.879s]    if (velocity_source_ == [01;31m[KenumToInteger[m[K(Mode::dialog))
+[3.879s]                            [01;31m[K^~~~~~~~~~~~~[m[K
+[3.880s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:238:27:[m[K [01;36m[Knote: [m[Ksuggested alternative:
+[3.880s] In file included from [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:18:0[m[K:
+[3.880s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/pure_pursuit_core.h:50:40:[m[K [01;36m[Knote: [m[K  ‘[01m[Kwaypoint_follower::enumToInteger[m[K’
+[3.880s]  typename std::underlying_type<T>::type [01;36m[KenumToInteger[m[K(T t)
+[3.880s]                                         [01;36m[K^~~~~~~~~~~~~[m[K
+[3.880s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:240:32:[m[K [01;31m[Kerror: [m[K‘[01m[Kconst_velocity_[m[K’ was not declared in this scope
+[3.880s]      return getSgn() * kmph2mps([01;31m[Kconst_velocity_[m[K);
+[3.880s]                                 [01;31m[K^~~~~~~~~~~~~~~[m[K
+[3.889s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:243:10:[m[K [01;31m[Kerror: [m[K‘[01m[Kcommand_linear_velocity_[m[K’ was not declared in this scope
+[3.889s]    return [01;31m[Kcommand_linear_velocity_[m[K;
+[3.889s]           [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[3.906s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K At global scope:
+[3.907s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:246:8:[m[K [01;31m[Kerror: [m[K‘[01m[KPurePursuitNode[m[K’ has not been declared
+[3.907s]  double [01;31m[KPurePursuitNode[m[K::computeCommandAccel() const
+[3.907s]         [01;31m[K^~~~~~~~~~~~~~~[m[K
+[3.907s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:246:47:[m[K [01;31m[Kerror: [m[Knon-member function ‘[01m[Kdouble computeCommandAccel()[m[K’ cannot have cv-qualifier
+[3.907s]  double PurePursuitNode::computeCommandAccel() [01;31m[Kconst[m[K
+[3.907s]                                                [01;31m[K^~~~~[m[K
+[3.907s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K In function ‘[01m[Kdouble computeCommandAccel()[m[K’:
+[3.907s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:248:44:[m[K [01;31m[Kerror: [m[K‘[01m[Kpp_[m[K’ was not declared in this scope
+[3.907s]    const geometry_msgs::Pose current_pose = [01;31m[Kpp_[m[K.getCurrentPose();
+[3.907s]                                             [01;31m[K^~~[m[K
+[3.908s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:248:44:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Kpipe[m[K’
+[3.908s]    const geometry_msgs::Pose current_pose = [01;36m[Kpp_[m[K.getCurrentPose();
+[3.908s]                                             [01;36m[K^~~[m[K
+[3.908s]                                             [32m[Kpipe[m[K
+[3.908s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:256:21:[m[K [01;31m[Kerror: [m[K‘[01m[Kcurrent_linear_velocity_[m[K’ was not declared in this scope
+[3.908s]    const double v0 = [01;31m[Kcurrent_linear_velocity_[m[K;
+[3.908s]                      [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[3.922s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K At global scope:
+[3.922s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:262:8:[m[K [01;31m[Kerror: [m[K‘[01m[KPurePursuitNode[m[K’ has not been declared
+[3.922s]  double [01;31m[KPurePursuitNode[m[K::computeAngularGravity(
+[3.922s]         [01;31m[K^~~~~~~~~~~~~~~[m[K
+[3.922s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:263:34:[m[K [01;31m[Kerror: [m[Knon-member function ‘[01m[Kdouble computeAngularGravity(double, double)[m[K’ cannot have cv-qualifier
+[3.922s]    double velocity, double kappa) [01;31m[Kconst[m[K
+[3.922s]                                   [01;31m[K^~~~~[m[K
+[3.922s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:269:6:[m[K [01;31m[Kerror: [m[K‘[01m[KPurePursuitNode[m[K’ has not been declared
+[3.922s]  void [01;31m[KPurePursuitNode[m[K::callbackFromConfig(
+[3.922s]       [01;31m[K^~~~~~~~~~~~~~~[m[K
+[3.922s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K In function ‘[01m[Kvoid callbackFromConfig(const ConfigWaypointFollowerConstPtr&)[m[K’:
+[3.922s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:272:3:[m[K [01;31m[Kerror: [m[K‘[01m[Kvelocity_source_[m[K’ was not declared in this scope
+[3.922s]    [01;31m[Kvelocity_source_[m[K = config->param_flag;
+[3.923s]    [01;31m[K^~~~~~~~~~~~~~~~[m[K
+[3.930s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:273:3:[m[K [01;31m[Kerror: [m[K‘[01m[Kconst_lookahead_distance_[m[K’ was not declared in this scope
+[3.930s]    [01;31m[Kconst_lookahead_distance_[m[K = config->lookahead_distance;
+[3.930s]    [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[3.941s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:273:3:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[KcomputeLookaheadDistance[m[K’
+[3.941s]    [01;36m[Kconst_lookahead_distance_[m[K = config->lookahead_distance;
+[3.941s]    [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[3.941s]    [32m[KcomputeLookaheadDistance[m[K
+[3.941s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:274:3:[m[K [01;31m[Kerror: [m[K‘[01m[Kconst_velocity_[m[K’ was not declared in this scope
+[3.941s]    [01;31m[Kconst_velocity_[m[K = config->velocity;
+[3.941s]    [01;31m[K^~~~~~~~~~~~~~~[m[K
+[3.948s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:275:3:[m[K [01;31m[Kerror: [m[K‘[01m[Klookahead_distance_ratio_[m[K’ was not declared in this scope
+[3.948s]    [01;31m[Klookahead_distance_ratio_[m[K = config->lookahead_ratio;
+[3.949s]    [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[3.967s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:276:3:[m[K [01;31m[Kerror: [m[K‘[01m[Kminimum_lookahead_distance_[m[K’ was not declared in this scope
+[3.967s]    [01;31m[Kminimum_lookahead_distance_[m[K = config->minimum_lookahead_distance;
+[3.967s]    [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[3.980s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:276:3:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[KcomputeLookaheadDistance[m[K’
+[3.980s]    [01;36m[Kminimum_lookahead_distance_[m[K = config->minimum_lookahead_distance;
+[3.980s]    [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[3.980s]    [32m[KcomputeLookaheadDistance[m[K
+[3.980s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K At global scope:
+[3.980s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:279:6:[m[K [01;31m[Kerror: [m[K‘[01m[KPurePursuitNode[m[K’ has not been declared
+[3.980s]  void [01;31m[KPurePursuitNode[m[K::publishDeviationCurrentPosition(
+[3.980s]       [01;31m[K^~~~~~~~~~~~~~~[m[K
+[3.980s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:281:58:[m[K [01;31m[Kerror: [m[Knon-member function ‘[01m[Kvoid publishDeviationCurrentPosition(const Point&, const std::vector<autoware_msgs::Waypoint_<std::allocator<void> >, std::allocator<autoware_msgs::Waypoint_<std::allocator<void> > > >&)[m[K’ cannot have cv-qualifier
+[3.980s]    const std::vector<autoware_msgs::Waypoint>& waypoints) [01;31m[Kconst[m[K
+[3.981s]                                                           [01;31m[K^~~~~[m[K
+[3.981s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K In function ‘[01m[Kvoid publishDeviationCurrentPosition(const Point&, const std::vector<autoware_msgs::Waypoint_<std::allocator<void> >, std::allocator<autoware_msgs::Waypoint_<std::allocator<void> > > >&)[m[K’:
+[3.981s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:299:3:[m[K [01;31m[Kerror: [m[K‘[01m[Kpub17_[m[K’ was not declared in this scope
+[3.981s]    [01;31m[Kpub17_[m[K.publish(msg);
+[3.981s]    [01;31m[K^~~~~~[m[K
+[3.982s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K At global scope:
+[3.982s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:302:6:[m[K [01;31m[Kerror: [m[K‘[01m[KPurePursuitNode[m[K’ has not been declared
+[3.982s]  void [01;31m[KPurePursuitNode[m[K::callbackFromCurrentPose(
+[3.982s]       [01;31m[K^~~~~~~~~~~~~~~[m[K
+[3.982s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K In function ‘[01m[Kvoid callbackFromCurrentPose(const PoseStampedConstPtr&)[m[K’:
+[3.982s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:305:3:[m[K [01;31m[Kerror: [m[K‘[01m[Kpp_[m[K’ was not declared in this scope
+[3.983s]    [01;31m[Kpp_[m[K.setCurrentPose(msg);
+[3.983s]    [01;31m[K^~~[m[K
+[3.983s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:305:3:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Kpipe[m[K’
+[3.983s]    [01;36m[Kpp_[m[K.setCurrentPose(msg);
+[3.984s]    [01;36m[K^~~[m[K
+[3.984s]    [32m[Kpipe[m[K
+[3.984s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:306:3:[m[K [01;31m[Kerror: [m[K‘[01m[Kis_pose_set_[m[K’ was not declared in this scope
+[3.984s]    [01;31m[Kis_pose_set_[m[K = true;
+[3.984s]    [01;31m[K^~~~~~~~~~~~[m[K
+[3.989s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K At global scope:
+[3.989s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:309:6:[m[K [01;31m[Kerror: [m[K‘[01m[KPurePursuitNode[m[K’ has not been declared
+[3.989s]  void [01;31m[KPurePursuitNode[m[K::callbackFromCurrentVelocity(
+[3.989s]       [01;31m[K^~~~~~~~~~~~~~~[m[K
+[3.989s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K In function ‘[01m[Kvoid callbackFromCurrentVelocity(const TwistStampedConstPtr&)[m[K’:
+[3.989s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:312:3:[m[K [01;31m[Kerror: [m[K‘[01m[Kcurrent_linear_velocity_[m[K’ was not declared in this scope
+[3.989s]    [01;31m[Kcurrent_linear_velocity_[m[K = msg->twist.linear.x;
+[3.989s]    [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[4.003s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:313:3:[m[K [01;31m[Kerror: [m[K‘[01m[Kpp_[m[K’ was not declared in this scope
+[4.004s]    [01;31m[Kpp_[m[K.setCurrentVelocity(current_linear_velocity_);
+[4.004s]    [01;31m[K^~~[m[K
+[4.005s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:313:3:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Kpipe[m[K’
+[4.005s]    [01;36m[Kpp_[m[K.setCurrentVelocity(current_linear_velocity_);
+[4.005s]    [01;36m[K^~~[m[K
+[4.005s]    [32m[Kpipe[m[K
+[4.005s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:314:3:[m[K [01;31m[Kerror: [m[K‘[01m[Kis_velocity_set_[m[K’ was not declared in this scope
+[4.005s]    [01;31m[Kis_velocity_set_[m[K = true;
+[4.005s]    [01;31m[K^~~~~~~~~~~~~~~~[m[K
+[4.013s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K At global scope:
+[4.013s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:317:6:[m[K [01;31m[Kerror: [m[K‘[01m[KPurePursuitNode[m[K’ has not been declared
+[4.013s]  void [01;31m[KPurePursuitNode[m[K::callbackFromWayPoints(
+[4.013s]       [01;31m[K^~~~~~~~~~~~~~~[m[K
+[4.013s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K In function ‘[01m[Kvoid callbackFromWayPoints(const LaneConstPtr&)[m[K’:
+[4.013s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:320:3:[m[K [01;31m[Kerror: [m[K‘[01m[Kcommand_linear_velocity_[m[K’ was not declared in this scope
+[4.013s]    [01;31m[Kcommand_linear_velocity_[m[K =
+[4.013s]    [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[4.026s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:322:7:[m[K [01;31m[Kerror: [m[K‘[01m[Kadd_virtual_end_waypoints_[m[K’ was not declared in this scope
+[4.026s]    if ([01;31m[Kadd_virtual_end_waypoints_[m[K)
+[4.026s]        [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[4.044s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:325:5:[m[K [01;31m[Kerror: [m[K‘[01m[Kdirection_[m[K’ was not declared in this scope
+[4.044s]      [01;31m[Kdirection_[m[K = (solved_dir != LaneDirection::Error) ? solved_dir : direction_;
+[4.044s]      [01;31m[K^~~~~~~~~~[m[K
+[4.047s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:325:5:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[KLaneDirection[m[K’
+[4.048s]      [01;36m[Kdirection_[m[K = (solved_dir != LaneDirection::Error) ? solved_dir : direction_;
+[4.048s]      [01;36m[K^~~~~~~~~~[m[K
+[4.048s]      [32m[KLaneDirection[m[K
+[4.048s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:327:5:[m[K [01;31m[Kerror: [m[K‘[01m[Kexpand_size_[m[K’ was not declared in this scope
+[4.048s]      [01;31m[Kexpand_size_[m[K = -expanded_lane.waypoints.size();
+[4.048s]      [01;31m[K^~~~~~~~~~~~[m[K
+[4.051s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:327:5:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Kexpanded_lane[m[K’
+[4.051s]      [01;36m[Kexpand_size_[m[K = -expanded_lane.waypoints.size();
+[4.051s]      [01;36m[K^~~~~~~~~~~~[m[K
+[4.051s]      [32m[Kexpanded_lane[m[K
+[4.051s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:328:5:[m[K [01;31m[Kerror: [m[K‘[01m[KconnectVirtualLastWaypoints[m[K’ was not declared in this scope
+[4.051s]      [01;31m[KconnectVirtualLastWaypoints[m[K(&expanded_lane, direction_);
+[4.051s]      [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[4.065s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:331:5:[m[K [01;31m[Kerror: [m[K‘[01m[Kpp_[m[K’ was not declared in this scope
+[4.065s]      [01;31m[Kpp_[m[K.setCurrentWaypoints(expanded_lane.waypoints);
+[4.065s]      [01;31m[K^~~[m[K
+[4.066s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:331:5:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Kpipe[m[K’
+[4.067s]      [01;36m[Kpp_[m[K.setCurrentWaypoints(expanded_lane.waypoints);
+[4.067s]      [01;36m[K^~~[m[K
+[4.067s]      [32m[Kpipe[m[K
+[4.067s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:335:5:[m[K [01;31m[Kerror: [m[K‘[01m[Kpp_[m[K’ was not declared in this scope
+[4.067s]      [01;31m[Kpp_[m[K.setCurrentWaypoints(msg->waypoints);
+[4.067s]      [01;31m[K^~~[m[K
+[4.068s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:335:5:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Kpipe[m[K’
+[4.068s]      [01;36m[Kpp_[m[K.setCurrentWaypoints(msg->waypoints);
+[4.068s]      [01;36m[K^~~[m[K
+[4.068s]      [32m[Kpipe[m[K
+[4.068s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:337:3:[m[K [01;31m[Kerror: [m[K‘[01m[Kis_waypoint_set_[m[K’ was not declared in this scope
+[4.068s]    [01;31m[Kis_waypoint_set_[m[K = true;
+[4.068s]    [01;31m[K^~~~~~~~~~~~~~~~[m[K
+[4.076s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:337:3:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Kiswprint_l[m[K’
+[4.077s]    [01;36m[Kis_waypoint_set_[m[K = true;
+[4.077s]    [01;36m[K^~~~~~~~~~~~~~~~[m[K
+[4.077s]    [32m[Kiswprint_l[m[K
+[4.077s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K At global scope:
+[4.077s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:340:6:[m[K [01;31m[Kerror: [m[K‘[01m[KPurePursuitNode[m[K’ has not been declared
+[4.077s]  void [01;31m[KPurePursuitNode[m[K::connectVirtualLastWaypoints(
+[4.077s]       [01;31m[K^~~~~~~~~~~~~~~[m[K
+[4.078s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K In function ‘[01m[Kvoid connectVirtualLastWaypoints(autoware_msgs::Lane*, LaneDirection)[m[K’:
+[4.078s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:354:22:[m[K [01;31m[Kerror: [m[K‘[01m[Kminimum_lookahead_distance_[m[K’ was not declared in this scope
+[4.078s]    for (double dist = [01;31m[Kminimum_lookahead_distance_[m[K; dist > 0.0; dist -= interval)
+[4.078s]                       [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[4.090s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:354:22:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[KcomputeLookaheadDistance[m[K’
+[4.090s]    for (double dist = [01;36m[Kminimum_lookahead_distance_[m[K; dist > 0.0; dist -= interval)
+[4.090s]                       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[4.090s]                       [32m[KcomputeLookaheadDistance[m[K
+[4.090s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K At global scope:
+[4.090s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:369:1:[m[K [01;31m[Kerror: [m[Kexpected declaration before ‘[01m[K}[m[K’ token
+[4.090s]  [01;31m[K}[m[K  // namespace waypoint_follower
+[4.091s]  [01;31m[K^[m[K
+[5.117s] CMakeFiles/pure_pursuit.dir/build.make:110: recipe for target 'CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o' failed
+[5.117s] make[2]: *** [CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o] Error 1
+[5.117s] make[1]: *** [CMakeFiles/pure_pursuit.dir/all] Error 2
+[5.118s] CMakeFiles/Makefile2:444: recipe for target 'CMakeFiles/pure_pursuit.dir/all' failed
+[5.118s] Makefile:140: recipe for target 'all' failed
+[5.118s] make: *** [all] Error 2
+[5.123s] Invoked command in '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/build/pure_pursuit' returned '2': CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/build/pure_pursuit -- -j8 -l8

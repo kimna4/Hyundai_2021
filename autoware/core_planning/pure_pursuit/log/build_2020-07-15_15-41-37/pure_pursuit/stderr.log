@@ -1,0 +1,8 @@
+[1.850s] In file included from [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:19:0[m[K:
+[1.850s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:9:10:[m[K [01;31m[Kfatal error: [m[Kcmath.h: No such file or directory
+[1.850s]  #include [01;31m[K<cmath.h>[m[K
+[1.850s]           [01;31m[K^~~~~~~~~[m[K
+[1.850s] compilation terminated.
+[1.858s] make[2]: *** [CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o] Error 1
+[1.858s] make[1]: *** [CMakeFiles/pure_pursuit.dir/all] Error 2
+[1.858s] make: *** [all] Error 2

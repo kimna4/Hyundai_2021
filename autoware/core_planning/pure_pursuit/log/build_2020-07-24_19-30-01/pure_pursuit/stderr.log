@@ -1,0 +1,69 @@
+[13.962s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:227:30:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K#[m[K’ in program
+[13.962s]            if new_index < 0{  [01;31m[K#[m[K Beginning of path
+[13.962s]                               [01;31m[K^[m[K
+[15.961s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K In member function ‘[01m[Kvoid waypoint_follower::PurePursuitNode::run()[m[K’:
+[15.961s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:216:24:[m[K [01;35m[Kwarning: [m[Kcomparison between signed and unsigned integer expressions [[01;35m[K-Wsign-compare[m[K]
+[15.961s]            if([01;35m[Knew_index >= pp_.getCurrentWaypoints().size()[m[K){
+[15.962s]               [01;35m[K~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[15.962s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:227:14:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K([m[K’ before ‘[01m[Knew_index[m[K’
+[15.962s]            if [01;31m[Knew_index[m[K < 0{  # Beginning of path
+[15.962s]               [01;31m[K^~~~~~~~~[m[K
+[15.962s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:245:5:[m[K [01;31m[Kerror: [m[K‘[01m[Kelse[m[K’ without a previous ‘[01m[Kif[m[K’
+[15.962s]      [01;31m[Kelse[m[K {
+[15.962s]      [01;31m[K^~~~[m[K
+[15.966s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:300:42:[m[K [01;31m[Kerror: [m[Kqualified-id in declaration before ‘[01m[K([m[K’ token
+[15.967s]  void PurePursuitNode::publishTwistStamped[01;31m[K([m[K
+[15.967s]                                           [01;31m[K^[m[K
+[15.967s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:310:51:[m[K [01;31m[Kerror: [m[Kqualified-id in declaration before ‘[01m[K([m[K’ token
+[15.967s]  void PurePursuitNode::publishControlCommandStamped[01;31m[K([m[K
+[15.967s]                                                    [01;31m[K^[m[K
+[15.967s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:328:49:[m[K [01;31m[Kerror: [m[Kqualified-id in declaration before ‘[01m[K([m[K’ token
+[15.967s]  double PurePursuitNode::computeLookaheadDistance[01;31m[K([m[K) const
+[15.967s]                                                  [01;31m[K^[m[K
+[15.967s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:344:28:[m[K [01;31m[Kerror: [m[Kqualified-id in declaration before ‘[01m[K([m[K’ token
+[15.968s]  int PurePursuitNode::getSgn[01;31m[K([m[K) const
+[15.968s]                             [01;31m[K^[m[K
+[15.968s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:358:47:[m[K [01;31m[Kerror: [m[Kqualified-id in declaration before ‘[01m[K([m[K’ token
+[15.968s]  double PurePursuitNode::computeCommandVelocity[01;31m[K([m[K) const
+[15.968s]                                                [01;31m[K^[m[K
+[15.968s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:368:44:[m[K [01;31m[Kerror: [m[Kqualified-id in declaration before ‘[01m[K([m[K’ token
+[15.968s]  double PurePursuitNode::computeCommandAccel[01;31m[K([m[K) const
+[15.969s]                                             [01;31m[K^[m[K
+[15.969s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:384:46:[m[K [01;31m[Kerror: [m[Kqualified-id in declaration before ‘[01m[K([m[K’ token
+[15.969s]  double PurePursuitNode::computeAngularGravity[01;31m[K([m[K
+[15.969s]                                               [01;31m[K^[m[K
+[15.969s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:391:41:[m[K [01;31m[Kerror: [m[Kqualified-id in declaration before ‘[01m[K([m[K’ token
+[15.969s]  void PurePursuitNode::callbackFromConfig[01;31m[K([m[K
+[15.969s]                                          [01;31m[K^[m[K
+[15.969s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:402:54:[m[K [01;31m[Kerror: [m[Kqualified-id in declaration before ‘[01m[K([m[K’ token
+[15.969s]  void PurePursuitNode::publishDeviationCurrentPosition[01;31m[K([m[K
+[15.969s]                                                       [01;31m[K^[m[K
+[15.970s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:425:46:[m[K [01;31m[Kerror: [m[Kqualified-id in declaration before ‘[01m[K([m[K’ token
+[15.970s]  void PurePursuitNode::callbackFromCurrentPose[01;31m[K([m[K
+[15.970s]                                               [01;31m[K^[m[K
+[15.970s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:432:50:[m[K [01;31m[Kerror: [m[Kqualified-id in declaration before ‘[01m[K([m[K’ token
+[15.970s]  void PurePursuitNode::callbackFromCurrentVelocity[01;31m[K([m[K
+[15.970s]                                                   [01;31m[K^[m[K
+[15.970s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:440:44:[m[K [01;31m[Kerror: [m[Kqualified-id in declaration before ‘[01m[K([m[K’ token
+[15.970s]  void PurePursuitNode::callbackFromWayPoints[01;31m[K([m[K
+[15.970s]                                             [01;31m[K^[m[K
+[15.970s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:463:50:[m[K [01;31m[Kerror: [m[Kqualified-id in declaration before ‘[01m[K([m[K’ token
+[15.970s]  void PurePursuitNode::connectVirtualLastWaypoints[01;31m[K([m[K
+[15.971s]                                                   [01;31m[K^[m[K
+[15.971s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:488:1:[m[K [01;31m[Kerror: [m[Ka function-definition is not allowed here before ‘[01m[K{[m[K’ token
+[15.971s]  [01;31m[K{[m[K
+[15.971s]  [01;31m[K^[m[K
+[15.971s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:179:11:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kway_x[m[K’ [[01;35m[K-Wunused-variable[m[K]
+[15.971s]      float [01;35m[Kway_x[m[K = pp_.getCurrentWaypoints().at(0).pose.pose.position.x;
+[15.971s]            [01;35m[K^~~~~[m[K
+[15.971s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:180:11:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kway_y[m[K’ [[01;35m[K-Wunused-variable[m[K]
+[15.972s]      float [01;35m[Kway_y[m[K = pp_.getCurrentWaypoints().at(0).pose.pose.position.y;
+[15.972s]            [01;35m[K^~~~~[m[K
+[15.972s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:492:1:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K}[m[K’ at end of input
+[15.974s]  [01;31m[K}[m[K  // namespace waypoint_follower
+[15.974s]  [01;31m[K^[m[K
+[15.974s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K At global scope:
+[15.974s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:492:1:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K}[m[K’ at end of input
+[17.609s] make[2]: *** [CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o] Error 1
+[17.609s] make[1]: *** [CMakeFiles/pure_pursuit.dir/all] Error 2
+[17.609s] make: *** [all] Error 2

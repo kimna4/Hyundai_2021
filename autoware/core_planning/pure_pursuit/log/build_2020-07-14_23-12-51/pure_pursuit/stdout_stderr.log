@@ -1,0 +1,97 @@
+[0.138s] [  0%] Built target pcl_msgs_generate_messages_eus
+[0.141s] [  0%] Built target autoware_system_msgs_generate_messages_lisp
+[0.147s] [  0%] Built target actionlib_generate_messages_cpp
+[0.147s] [  0%] Built target geometry_msgs_generate_messages_py
+[0.148s] [  0%] Built target jsk_recognition_msgs_generate_messages_eus
+[0.157s] [  0%] Built target jsk_recognition_msgs_generate_messages_lisp
+[0.158s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[0.161s] [  0%] Built target autoware_config_msgs_generate_messages_lisp
+[0.208s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[0.209s] [  0%] Built target _catkin_empty_exported_target
+[0.212s] [  0%] Built target roscpp_generate_messages_cpp
+[0.215s] [  0%] Built target sensor_msgs_generate_messages_eus
+[0.218s] [  0%] Built target autoware_system_msgs_generate_messages_py
+[0.231s] [  0%] Built target autoware_msgs_generate_messages_cpp
+[0.236s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[0.243s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[0.275s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[0.282s] [  0%] Built target autoware_msgs_generate_messages_py
+[0.285s] [  0%] Built target std_msgs_generate_messages_nodejs
+[0.287s] [  0%] Built target std_msgs_generate_messages_py
+[0.291s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[0.301s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[0.317s] [  0%] Built target jsk_recognition_msgs_generate_messages_py
+[0.332s] [  0%] Built target sensor_msgs_generate_messages_py
+[0.341s] [  0%] Built target tf_generate_messages_py
+[0.349s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[0.355s] [  0%] Built target jsk_footstep_msgs_generate_messages_py
+[0.363s] [  0%] Built target std_msgs_generate_messages_cpp
+[0.383s] [  0%] Built target roscpp_generate_messages_nodejs
+[0.386s] [  0%] Built target std_msgs_generate_messages_lisp
+[0.387s] [  0%] Built target geometry_msgs_generate_messages_eus
+[0.409s] [  0%] Built target autoware_system_msgs_generate_messages_cpp
+[0.416s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[0.422s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[0.428s] [  0%] Built target jsk_recognition_msgs_generate_messages_cpp
+[0.444s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[0.450s] [  0%] Built target std_msgs_generate_messages_eus
+[0.453s] [  0%] Built target autoware_msgs_generate_messages_eus
+[0.471s] [  0%] Built target autoware_msgs_generate_messages_lisp
+[0.483s] [  0%] Built target autoware_msgs_generate_messages_nodejs
+[0.498s] [  0%] Built target actionlib_msgs_generate_messages_py
+[0.498s] [  0%] Built target jsk_footstep_msgs_generate_messages_eus
+[0.505s] [  0%] Built target autoware_system_msgs_generate_messages_nodejs
+[0.507s] [  0%] Built target jsk_footstep_msgs_generate_messages_lisp
+[0.529s] [  0%] Built target autoware_config_msgs_generate_messages_eus
+[0.531s] [  0%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[0.551s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[0.554s] [  0%] Built target tf_generate_messages_eus
+[0.559s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[0.569s] [  0%] Built target jsk_footstep_msgs_generate_messages_cpp
+[0.583s] [  0%] Built target tf_generate_messages_lisp
+[0.585s] [  0%] Built target autoware_config_msgs_generate_messages_nodejs
+[0.604s] [  0%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[0.613s] [  0%] Built target tf_generate_messages_nodejs
+[0.635s] [  0%] Built target roscpp_generate_messages_lisp
+[0.638s] [  0%] Built target roscpp_generate_messages_py
+[0.641s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[0.645s] [  0%] Built target roscpp_generate_messages_eus
+[0.648s] [  0%] Built target autoware_config_msgs_generate_messages_cpp
+[0.662s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[0.669s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[0.699s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[0.699s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[0.704s] [  0%] Built target pcl_msgs_generate_messages_py
+[0.712s] [  0%] Built target actionlib_generate_messages_eus
+[0.723s] [  0%] Built target actionlib_generate_messages_lisp
+[0.724s] [  0%] Built target autoware_config_msgs_generate_messages_py
+[0.740s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[0.746s] [  0%] Built target tf_generate_messages_cpp
+[0.771s] [  0%] Built target tf2_msgs_generate_messages_eus
+[0.785s] [  0%] Built target autoware_system_msgs_generate_messages_eus
+[0.790s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[0.795s] [  0%] Built target actionlib_generate_messages_nodejs
+[0.796s] [  0%] Built target actionlib_generate_messages_py
+[0.808s] [  0%] Built target tf2_msgs_generate_messages_py
+[0.813s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[0.833s] [35m[1mScanning dependencies of target pure_pursuit[0m
+[0.872s] [ 20%] [32mBuilding CXX object CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o[0m
+[3.353s] In file included from [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:19:0[m[K:
+[3.353s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:[m[K In member function ‘[01m[Kdouble Stanley::calculate_steering(float, float, float, std::vector<autoware_msgs::Waypoint_<std::allocator<void> >, std::allocator<autoware_msgs::Waypoint_<std::allocator<void> > > >, float)[m[K’:
+[3.353s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:113:57:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[K(waypoints.std::vector<autoware_msgs::Waypoint_<std::allocator<void> >, std::allocator<autoware_msgs::Waypoint_<std::allocator<void> > > >::at(0).autoware_msgs::Waypoint_<std::allocator<void> >::pose.geometry_msgs::PoseStamped_<std::allocator<void> >::pose.geometry_msgs::Pose_<std::allocator<void> >::position.geometry_msgs::Point_<std::allocator<void> >::x - ((geometry_msgs::Point_<std::allocator<void> >::_x_type)x))[m[K’ from ‘[01m[Kgeometry_msgs::Point_<std::allocator<void> >::_x_type {aka double}[m[K’ to ‘[01m[Kfloat[m[K’ inside { } [[01;35m[K-Wnarrowing[m[K]
+[3.353s]      float v1[2] = {[01;35m[Kwaypoints.at(0).pose.pose.position.x - x[m[K, waypoints.at(0).pose.pose.position.y - y};
+[3.353s]                     [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~[m[K
+[3.353s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:113:99:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[K(waypoints.std::vector<autoware_msgs::Waypoint_<std::allocator<void> >, std::allocator<autoware_msgs::Waypoint_<std::allocator<void> > > >::at(0).autoware_msgs::Waypoint_<std::allocator<void> >::pose.geometry_msgs::PoseStamped_<std::allocator<void> >::pose.geometry_msgs::Pose_<std::allocator<void> >::position.geometry_msgs::Point_<std::allocator<void> >::y - ((geometry_msgs::Point_<std::allocator<void> >::_y_type)y))[m[K’ from ‘[01m[Kgeometry_msgs::Point_<std::allocator<void> >::_y_type {aka double}[m[K’ to ‘[01m[Kfloat[m[K’ inside { } [[01;35m[K-Wnarrowing[m[K]
+[3.354s]  ints.at(0).pose.pose.position.x - x, [01;35m[Kwaypoints.at(0).pose.pose.position.y - y[m[K};
+[3.354s]                                       [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~[m[K
+[8.014s] [ 40%] [32m[1mLinking CXX executable devel/lib/pure_pursuit/pure_pursuit[0m
+[8.285s] CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o: In function `waypoint_follower::PurePursuitNode::run()':
+[8.285s] /home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:100: undefined reference to `Stanley::~Stanley()'
+[8.285s] /home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:100: undefined reference to `Stanley::~Stanley()'
+[8.285s] collect2: error: ld returned 1 exit status
+[8.287s] CMakeFiles/pure_pursuit.dir/build.make:199: recipe for target 'devel/lib/pure_pursuit/pure_pursuit' failed
+[8.287s] make[2]: *** [devel/lib/pure_pursuit/pure_pursuit] Error 1
+[8.287s] CMakeFiles/Makefile2:444: recipe for target 'CMakeFiles/pure_pursuit.dir/all' failed
+[8.288s] make[1]: *** [CMakeFiles/pure_pursuit.dir/all] Error 2
+[8.288s] Makefile:140: recipe for target 'all' failed
+[8.288s] make: *** [all] Error 2

@@ -1,0 +1,96 @@
+[0.164s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'build', '--cmake-args', '-DCMAKE_BUILD_TYPE=Release']
+[0.164s] DEBUG:colcon:Parsed command line arguments: Namespace(ament_cmake_args=None, base_paths=['.'], build_base='build', catkin_cmake_args=None, catkin_skip_building_tests=False, cmake_args=['-DCMAKE_BUILD_TYPE=Release'], cmake_clean_cache=False, cmake_clean_first=False, cmake_force_configure=False, cmake_target=None, cmake_target_skip_unavailable=False, continue_on_error=False, event_handlers=None, executor='parallel', ignore_user_meta=False, install_base='install', log_base=None, log_level=None, main=<bound method BuildVerb.main of <colcon_core.verb.build.BuildVerb object at 0x7f7caa054d68>>, merge_install=False, metas=['./colcon.meta'], packages_above=None, packages_above_depth=None, packages_end=None, packages_ignore=None, packages_ignore_regex=None, packages_select=None, packages_select_build_failed=False, packages_select_by_dep=None, packages_select_regex=None, packages_select_test_failures=False, packages_skip=None, packages_skip_build_finished=False, packages_skip_by_dep=None, packages_skip_regex=None, packages_skip_test_passed=False, packages_skip_up_to=None, packages_start=None, packages_up_to=None, parallel_workers=8, paths=None, symlink_install=False, test_result_base=None, verb_extension=<colcon_core.verb.build.BuildVerb object at 0x7f7caa054d68>, verb_name='build', verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0x7f7caa05b128>)
+[0.201s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[0.201s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[0.202s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[0.202s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[0.202s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) discover
+[0.202s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[0.202s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit'
+[0.202s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ignore', 'ignore_ament_install']
+[0.202s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore'
+[0.202s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore_ament_install'
+[0.202s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_pkg']
+[0.202s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_pkg'
+[0.202s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_meta']
+[0.202s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_meta'
+[0.202s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ros']
+[0.202s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ros'
+[0.214s] DEBUG:colcon.colcon_core.package_identification:Package '.' with type 'ros.catkin' and name 'pure_pursuit'
+[0.214s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults
+[0.214s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) discover
+[0.215s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) using defaults
+[0.215s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) discover
+[0.215s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) using defaults
+[0.222s] Level 5:colcon.colcon_core.verb:set package 'pure_pursuit' build argument 'cmake_args' from command line to '['-DCMAKE_BUILD_TYPE=Release']'
+[0.222s] Level 5:colcon.colcon_core.verb:set package 'pure_pursuit' build argument 'cmake_target' from command line to 'None'
+[0.222s] Level 5:colcon.colcon_core.verb:set package 'pure_pursuit' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[0.222s] Level 5:colcon.colcon_core.verb:set package 'pure_pursuit' build argument 'cmake_clean_cache' from command line to 'False'
+[0.222s] Level 5:colcon.colcon_core.verb:set package 'pure_pursuit' build argument 'cmake_clean_first' from command line to 'False'
+[0.222s] Level 5:colcon.colcon_core.verb:set package 'pure_pursuit' build argument 'cmake_force_configure' from command line to 'False'
+[0.223s] Level 5:colcon.colcon_core.verb:set package 'pure_pursuit' build argument 'ament_cmake_args' from command line to 'None'
+[0.223s] Level 5:colcon.colcon_core.verb:set package 'pure_pursuit' build argument 'catkin_cmake_args' from command line to 'None'
+[0.223s] Level 5:colcon.colcon_core.verb:set package 'pure_pursuit' build argument 'catkin_skip_building_tests' from command line to 'False'
+[0.223s] DEBUG:colcon.colcon_core.verb:Building package 'pure_pursuit' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/build/pure_pursuit', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': ['-DCMAKE_BUILD_TYPE=Release'], 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/pure_pursuit', 'merge_install': False, 'path': '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit', 'symlink_install': False, 'test_result_base': None}
+[0.223s] INFO:colcon.colcon_core.executor:Executing jobs using 'parallel' executor
+[0.226s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete
+[0.226s] INFO:colcon.colcon_ros.task.catkin.build:Building ROS package in '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit' with build type 'catkin'
+[0.227s] INFO:colcon.colcon_cmake.task.cmake.build:Building CMake package in '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit'
+[0.232s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_core.shell.bat': Not used on non-Windows systems
+[0.232s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.232s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.244s] DEBUG:colcon.colcon_core.shell:Ignoring prefix path '/opt/ros/melodic'
+[0.255s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/build/pure_pursuit': CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/build/pure_pursuit -- -j8 -l8
+[2.087s] Level 1:colcon.colcon_core.shell:create_environment_hook('pure_pursuit', 'ros_package_path')
+[2.088s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/pure_pursuit/share/pure_pursuit/hook/ros_package_path.ps1'
+[2.089s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/build/pure_pursuit' returned '2': CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/build/pure_pursuit -- -j8 -l8
+[2.089s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/pure_pursuit/share/pure_pursuit/hook/ros_package_path.dsv'
+[2.089s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/pure_pursuit/share/pure_pursuit/hook/ros_package_path.sh'
+[2.090s] Level 1:colcon.colcon_ros.task.catkin:checking '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/pure_pursuit/lib/python2.7/dist-packages'
+[2.090s] Level 1:colcon.colcon_core.shell:create_environment_hook('pure_pursuit', 'pkg_config_path')
+[2.090s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/pure_pursuit/share/pure_pursuit/hook/pkg_config_path.ps1'
+[2.090s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/pure_pursuit/share/pure_pursuit/hook/pkg_config_path.dsv'
+[2.091s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/pure_pursuit/share/pure_pursuit/hook/pkg_config_path.sh'
+[2.094s] Level 1:colcon.colcon_core.shell:create_environment_hook('pure_pursuit', 'pkg_config_path_multiarch')
+[2.095s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/pure_pursuit/share/pure_pursuit/hook/pkg_config_path_multiarch.ps1'
+[2.096s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/pure_pursuit/share/pure_pursuit/hook/pkg_config_path_multiarch.dsv'
+[2.096s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/pure_pursuit/share/pure_pursuit/hook/pkg_config_path_multiarch.sh'
+[2.098s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(pure_pursuit)
+[2.102s] Level 1:colcon.colcon_core.environment:checking '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/pure_pursuit' for CMake module files
+[2.102s] Level 1:colcon.colcon_core.environment:checking '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/pure_pursuit' for CMake config files
+[2.103s] Level 1:colcon.colcon_core.shell:create_environment_hook('pure_pursuit', 'cmake_prefix_path')
+[2.103s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/pure_pursuit/share/pure_pursuit/hook/cmake_prefix_path.ps1'
+[2.104s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/pure_pursuit/share/pure_pursuit/hook/cmake_prefix_path.dsv'
+[2.104s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/pure_pursuit/share/pure_pursuit/hook/cmake_prefix_path.sh'
+[2.106s] Level 1:colcon.colcon_core.environment:checking '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/pure_pursuit/lib'
+[2.106s] Level 1:colcon.colcon_core.environment:checking '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/pure_pursuit/bin'
+[2.106s] Level 1:colcon.colcon_core.environment:checking '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/pure_pursuit/lib/pkgconfig/pure_pursuit.pc'
+[2.106s] Level 1:colcon.colcon_core.shell:create_environment_hook('pure_pursuit', 'pkg_config')
+[2.107s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/pure_pursuit/share/pure_pursuit/hook/pkg_config.ps1'
+[2.107s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/pure_pursuit/share/pure_pursuit/hook/pkg_config.dsv'
+[2.107s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/pure_pursuit/share/pure_pursuit/hook/pkg_config.sh'
+[2.108s] Level 1:colcon.colcon_core.environment:checking '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/pure_pursuit/lib/python3.6/site-packages'
+[2.109s] INFO:colcon.colcon_core.shell:Creating package script '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/pure_pursuit/share/pure_pursuit/package.ps1'
+[2.110s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/pure_pursuit/share/pure_pursuit/package.dsv'
+[2.110s] INFO:colcon.colcon_core.shell:Creating package script '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/pure_pursuit/share/pure_pursuit/package.sh'
+[2.111s] INFO:colcon.colcon_core.shell:Creating package script '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/pure_pursuit/share/pure_pursuit/package.bash'
+[2.111s] INFO:colcon.colcon_core.shell:Creating package script '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/pure_pursuit/share/pure_pursuit/package.zsh'
+[2.112s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/pure_pursuit/share/colcon-core/packages/pure_pursuit)
+[2.113s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:closing loop
+[2.114s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:loop closed
+[2.114s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete finished with '2'
+[2.114s] DEBUG:colcon.colcon_core.event_reactor:joining thread
+[2.123s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.terminal_notifier': Not used on non-Darwin systems
+[2.123s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.win32': Not used on non-Windows systems
+[2.123s] INFO:colcon.colcon_notification.desktop_notification:Sending desktop notification using 'notify2'
+[2.125s] DEBUG:colcon.colcon_core.event_reactor:joined thread
+[2.126s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/local_setup.ps1'
+[2.127s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/_local_setup_util_ps1.py'
+[2.129s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/setup.ps1'
+[2.137s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/local_setup.sh'
+[2.137s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/_local_setup_util_sh.py'
+[2.138s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/setup.sh'
+[2.146s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/local_setup.bash'
+[2.146s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/setup.bash'
+[2.154s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/local_setup.zsh'
+[2.169s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/install/setup.zsh'

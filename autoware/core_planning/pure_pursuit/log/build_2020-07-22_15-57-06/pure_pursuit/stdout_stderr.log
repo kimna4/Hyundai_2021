@@ -1,0 +1,126 @@
+[0.114s] [  0%] Built target pcl_msgs_generate_messages_eus
+[0.115s] [  0%] Built target actionlib_generate_messages_cpp
+[0.116s] [  0%] Built target autoware_config_msgs_generate_messages_lisp
+[0.117s] [  0%] Built target geometry_msgs_generate_messages_py
+[0.117s] [  0%] Built target jsk_recognition_msgs_generate_messages_lisp
+[0.122s] [  0%] Built target autoware_system_msgs_generate_messages_lisp
+[0.123s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[0.130s] [  0%] Built target jsk_recognition_msgs_generate_messages_eus
+[0.165s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[0.170s] [  0%] Built target autoware_system_msgs_generate_messages_py
+[0.172s] [  0%] Built target roscpp_generate_messages_cpp
+[0.174s] [  0%] Built target sensor_msgs_generate_messages_eus
+[0.181s] [  0%] Built target _catkin_empty_exported_target
+[0.183s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[0.187s] [  0%] Built target autoware_msgs_generate_messages_cpp
+[0.193s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[0.212s] [  0%] Built target std_msgs_generate_messages_py
+[0.221s] [  0%] Built target std_msgs_generate_messages_nodejs
+[0.222s] [  0%] Built target autoware_msgs_generate_messages_py
+[0.224s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[0.230s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[0.231s] [  0%] Built target jsk_recognition_msgs_generate_messages_py
+[0.240s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[0.249s] [  0%] Built target sensor_msgs_generate_messages_py
+[0.268s] [  0%] Built target tf_generate_messages_py
+[0.270s] [  0%] Built target jsk_footstep_msgs_generate_messages_py
+[0.276s] [  0%] Built target std_msgs_generate_messages_cpp
+[0.276s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[0.282s] [  0%] Built target geometry_msgs_generate_messages_eus
+[0.289s] [  0%] Built target std_msgs_generate_messages_lisp
+[0.292s] [  0%] Built target roscpp_generate_messages_nodejs
+[0.314s] [  0%] Built target autoware_system_msgs_generate_messages_cpp
+[0.320s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[0.320s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[0.326s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[0.328s] [  0%] Built target jsk_recognition_msgs_generate_messages_cpp
+[0.338s] [  0%] Built target autoware_msgs_generate_messages_lisp
+[0.346s] [  0%] Built target autoware_msgs_generate_messages_eus
+[0.346s] [  0%] Built target std_msgs_generate_messages_eus
+[0.368s] [  0%] Built target autoware_msgs_generate_messages_nodejs
+[0.371s] [  0%] Built target jsk_footstep_msgs_generate_messages_eus
+[0.378s] [  0%] Built target jsk_footstep_msgs_generate_messages_lisp
+[0.379s] [  0%] Built target actionlib_msgs_generate_messages_py
+[0.380s] [  0%] Built target autoware_config_msgs_generate_messages_eus
+[0.392s] [  0%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[0.394s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[0.396s] [  0%] Built target autoware_system_msgs_generate_messages_nodejs
+[0.418s] [  0%] Built target jsk_footstep_msgs_generate_messages_cpp
+[0.423s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[0.429s] [  0%] Built target tf_generate_messages_eus
+[0.429s] [  0%] Built target tf_generate_messages_lisp
+[0.432s] [  0%] Built target autoware_config_msgs_generate_messages_nodejs
+[0.436s] [  0%] Built target tf_generate_messages_nodejs
+[0.446s] [  0%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[0.448s] [  0%] Built target roscpp_generate_messages_lisp
+[0.474s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[0.476s] [  0%] Built target roscpp_generate_messages_py
+[0.481s] [  0%] Built target autoware_config_msgs_generate_messages_cpp
+[0.485s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[0.486s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[0.490s] [  0%] Built target roscpp_generate_messages_eus
+[0.496s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[0.502s] [  0%] Built target autoware_config_msgs_generate_messages_py
+[0.521s] [  0%] Built target actionlib_generate_messages_eus
+[0.525s] [  0%] Built target pcl_msgs_generate_messages_py
+[0.530s] [  0%] Built target actionlib_generate_messages_lisp
+[0.533s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[0.534s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[0.540s] [  0%] Built target tf_generate_messages_cpp
+[0.548s] [  0%] Built target actionlib_generate_messages_nodejs
+[0.560s] [  0%] Built target autoware_system_msgs_generate_messages_eus
+[0.571s] [  0%] Built target tf2_msgs_generate_messages_eus
+[0.576s] [  0%] Built target actionlib_generate_messages_py
+[0.577s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[0.577s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[0.577s] [  0%] Built target tf2_msgs_generate_messages_py
+[0.595s] [35m[1mScanning dependencies of target pure_pursuit[0m
+[0.625s] [ 20%] [32mBuilding CXX object CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o[0m
+[2.717s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K In constructor ‘[01m[Kwaypoint_follower::PurePursuitNode::PurePursuitNode()[m[K’:
+[2.717s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:41:5:[m[K [01;31m[Kerror: [m[Kclass ‘[01m[Kwaypoint_follower::PurePursuitNode[m[K’ does not have any field named ‘[01m[Kstanley_factor[m[K’
+[2.717s]    , [01;31m[Kstanley_factor[m[K(0.0)
+[2.717s]      [01;31m[K^~~~~~~~~~~~~~[m[K
+[2.718s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K In member function ‘[01m[Kvoid waypoint_follower::PurePursuitNode::initForROS()[m[K’:
+[2.719s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:73:23:[m[K [01;31m[Kerror: [m[K‘[01m[Kstanley_factor_[m[K’ was not declared in this scope
+[2.719s]      "stanley_factor", [01;31m[Kstanley_factor_[m[K, 0.0);
+[2.719s]                        [01;31m[K^~~~~~~~~~~~~~~[m[K
+[2.729s] In file included from [01m[K/opt/ros/melodic/include/ros/ros.h:40:0[m[K,
+[2.729s]                  from [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/pure_pursuit_core.h:23[m[K,
+[2.729s]                  from [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:18[m[K:
+[2.729s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K In member function ‘[01m[Kvoid waypoint_follower::PurePursuitNode::run()[m[K’:
+[2.729s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:209:32:[m[K [01;31m[Kerror: [m[K‘[01m[Kstanley_factor_[m[K’ was not declared in this scope
+[2.729s]        ROS_WARN_STREAM("cfg "<< [01;31m[Ks[m[Ktanley_factor_ << std::endl);
+[2.729s]                                 [01;31m[K^[m[K
+[2.729s] [01m[K/opt/ros/melodic/include/ros/console.h:358:64:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_STREAM_AT_LOCATION_WITH_FILTER[m[K’
+[2.729s]      __rosconsole_print_stream_at_location_with_filter__ss__ << [01;36m[Kargs[m[K; \
+[2.729s]                                                                 [01;36m[K^~~~[m[K
+[2.729s] [01m[K/opt/ros/melodic/include/ros/console.h:406:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_STREAM_AT_LOCATION[m[K’
+[2.730s]        [01;36m[KROSCONSOLE_PRINT_STREAM_AT_LOCATION[m[K(args); \
+[2.730s]        [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[2.730s] [01m[K/opt/ros/melodic/include/ros/console.h:579:43:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_STREAM_COND[m[K’
+[2.730s]  #define ROS_LOG_STREAM(level, name, args) [01;36m[KROS_LOG_STREAM_COND[m[K(true, level, name, args)
+[2.730s]                                            [01;36m[K^~~~~~~~~~~~~~~~~~~[m[K
+[2.730s] [01m[K/opt/ros/melodic/include/rosconsole/macros_generated.h:163:31:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_STREAM[m[K’
+[2.730s]  #define ROS_WARN_STREAM(args) [01;36m[KROS_LOG_STREAM[m[K(::ros::console::levels::Warn, ROSCONSOLE_DEFAULT_NAME, args)
+[2.730s]                                [01;36m[K^~~~~~~~~~~~~~[m[K
+[2.730s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:209:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_WARN_STREAM[m[K’
+[2.730s]        [01;36m[KR[m[KOS_WARN_STREAM("cfg "<< stanley_factor_ << std::endl);
+[2.730s]        [01;36m[K^[m[K
+[2.742s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K In member function ‘[01m[Kdouble waypoint_follower::PurePursuitNode::computeCommandAccel() const[m[K’:
+[2.742s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:343:57:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K,[m[K’ or ‘[01m[K;[m[K’ before ‘[01m[K)[m[K’ token
+[2.742s]          current_pose.position.y - target_pose.position.y[01;31m[K)[m[K;
+[2.742s]                                                          [01;31m[K^[m[K
+[2.742s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K At global scope:
+[2.742s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:350:17:[m[K [01;31m[Kerror: [m[Kexpected constructor, destructor, or type conversion before ‘[01m[K([m[K’ token
+[2.742s]        std::hypot[01;31m[K([m[Kcurrent_pose.position.x - target_pose.position.x,
+[2.742s]                  [01;31m[K^[m[K
+[2.742s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K In member function ‘[01m[Kvoid waypoint_follower::PurePursuitNode::callbackFromConfig(const ConfigWaypointFollowerConstPtr&)[m[K’:
+[2.742s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:366:3:[m[K [01;31m[Kerror: [m[K‘[01m[Kstanley_factor_[m[K’ was not declared in this scope
+[2.742s]    [01;31m[Kstanley_factor_[m[K = config->stanley_factor;
+[2.742s]    [01;31m[K^~~~~~~~~~~~~~~[m[K
+[3.561s] CMakeFiles/pure_pursuit.dir/build.make:110: recipe for target 'CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o' failed
+[3.561s] make[2]: *** [CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o] Error 1
+[3.561s] CMakeFiles/Makefile2:444: recipe for target 'CMakeFiles/pure_pursuit.dir/all' failed
+[3.561s] make[1]: *** [CMakeFiles/pure_pursuit.dir/all] Error 2
+[3.562s] make: *** [all] Error 2
+[3.562s] Makefile:140: recipe for target 'all' failed

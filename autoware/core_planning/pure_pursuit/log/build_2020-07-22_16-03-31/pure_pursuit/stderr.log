@@ -1,0 +1,6 @@
+[2.579s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:355:17:[m[K [01;31m[Kerror: [m[Kexpected constructor, destructor, or type conversion before ‘[01m[K([m[K’ token
+[2.579s]        std::hypot[01;31m[K([m[Kcurrent_pose.position.x - target_pose.position.x,
+[2.579s]                  [01;31m[K^[m[K
+[3.392s] make[2]: *** [CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o] Error 1
+[3.392s] make[1]: *** [CMakeFiles/pure_pursuit.dir/all] Error 2
+[3.393s] make: *** [all] Error 2

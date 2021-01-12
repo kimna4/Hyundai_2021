@@ -1,0 +1,8 @@
+prefix=/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/lane_planner
+
+Name: lane_planner
+Description: Description of lane_planner
+Version: 1.12.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -llane_planner
+Requires: 

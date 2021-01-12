@@ -1,0 +1,10 @@
+[3.734s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K In member function ‘[01m[Kvoid waypoint_follower::PurePursuitNode::run()[m[K’:
+[3.734s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:170:48:[m[K [01;31m[Kerror: [m[Kcannot convert ‘[01m[Kgeometry_msgs::Point {aka geometry_msgs::Point_<std::allocator<void> >}[m[K’ to ‘[01m[Kfloat[m[K’ in initialization
+[3.735s]      float target_x = pp_.getPoseOfNextWaypoint([01;31m[K)[m[K;
+[3.735s]                                                 [01;31m[K^[m[K
+[3.735s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:171:48:[m[K [01;31m[Kerror: [m[Kcannot convert ‘[01m[Kgeometry_msgs::Point {aka geometry_msgs::Point_<std::allocator<void> >}[m[K’ to ‘[01m[Kfloat[m[K’ in initialization
+[3.735s]      float target_y = pp_.getPoseOfNextWaypoint([01;31m[K)[m[K;
+[3.735s]                                                 [01;31m[K^[m[K
+[4.926s] make[2]: *** [CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o] Error 1
+[4.926s] make[1]: *** [CMakeFiles/pure_pursuit.dir/all] Error 2
+[4.926s] make: *** [all] Error 2

@@ -1,0 +1,16 @@
+[3.992s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K In member function ‘[01m[Kvoid waypoint_follower::PurePursuitNode::run()[m[K’:
+[3.992s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:216:24:[m[K [01;35m[Kwarning: [m[Kcomparison between signed and unsigned integer expressions [[01;35m[K-Wsign-compare[m[K]
+[3.992s]            if([01;35m[Knew_index >= pp_.getCurrentWaypoints().size()[m[K){
+[3.992s]               [01;35m[K~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[3.992s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:227:14:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K([m[K’ before ‘[01m[Knew_index[m[K’
+[3.992s]            if [01;31m[Knew_index[m[K < 0 {
+[3.993s]               [01;31m[K^~~~~~~~~[m[K
+[3.997s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:179:11:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kway_x[m[K’ [[01;35m[K-Wunused-variable[m[K]
+[3.997s]      float [01;35m[Kway_x[m[K = pp_.getCurrentWaypoints().at(0).pose.pose.position.x;
+[3.997s]            [01;35m[K^~~~~[m[K
+[3.997s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:180:11:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kway_y[m[K’ [[01;35m[K-Wunused-variable[m[K]
+[3.997s]      float [01;35m[Kway_y[m[K = pp_.getCurrentWaypoints().at(0).pose.pose.position.y;
+[3.998s]            [01;35m[K^~~~~[m[K
+[5.124s] make[2]: *** [CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o] Error 1
+[5.124s] make[1]: *** [CMakeFiles/pure_pursuit.dir/all] Error 2
+[5.124s] make: *** [all] Error 2

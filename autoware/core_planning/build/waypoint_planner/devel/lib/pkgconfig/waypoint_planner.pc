@@ -1,0 +1,8 @@
+prefix=/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/build/waypoint_planner/devel
+
+Name: waypoint_planner
+Description: Description of waypoint_planner
+Version: 1.12.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

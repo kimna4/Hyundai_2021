@@ -1,0 +1,11 @@
+[3.213s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K In member function ‘[01m[Kvoid waypoint_follower::PurePursuitNode::run()[m[K’:
+[3.213s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:203:35:[m[K [01;31m[Kerror: [m[K‘[01m[Kpp_getCurrentWaypoints[m[K’ was not declared in this scope
+[3.213s]        pp_.getPoseOfNextTarget() = [01;31m[Kpp_getCurrentWaypoints[m[K().at(pp_.getNextWaypointNumber()).pose.pose.position;
+[3.213s]                                    [01;31m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[3.225s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:203:35:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[KgetClosestWaypoint[m[K’
+[3.225s]        pp_.getPoseOfNextTarget() = [01;36m[Kpp_getCurrentWaypoints[m[K().at(pp_.getNextWaypointNumber()).pose.pose.position;
+[3.225s]                                    [01;36m[K^~~~~~~~~~~~~~~~~~~~~~[m[K
+[3.225s]                                    [32m[KgetClosestWaypoint[m[K
+[4.213s] make[2]: *** [CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o] Error 1
+[4.213s] make[1]: *** [CMakeFiles/pure_pursuit.dir/all] Error 2
+[4.213s] make: *** [all] Error 2

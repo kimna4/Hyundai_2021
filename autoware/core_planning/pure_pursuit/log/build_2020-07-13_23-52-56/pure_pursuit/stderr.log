@@ -1,0 +1,11 @@
+[10.607s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:[m[K In member function ‘[01m[Kvoid waypoint_follower::PurePursuitNode::run()[m[K’:
+[10.607s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:143:51:[m[K [01;31m[Kerror: [m[K‘[01m[KgetCurrentVelocity[m[K’ was not declared in this scope
+[10.607s]      float direction_tune = (direction * distance* [01;31m[KgetCurrentVelocity[m[K() * 0.003);
+[10.607s]                                                    [01;31m[K^~~~~~~~~~~~~~~~~~[m[K
+[10.618s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:143:51:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[KDecelerateVelocity[m[K’
+[10.619s]      float direction_tune = (direction * distance* [01;36m[KgetCurrentVelocity[m[K() * 0.003);
+[10.619s]                                                    [01;36m[K^~~~~~~~~~~~~~~~~~[m[K
+[10.619s]                                                    [32m[KDecelerateVelocity[m[K
+[11.714s] make[2]: *** [CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o] Error 1
+[11.714s] make[1]: *** [CMakeFiles/pure_pursuit.dir/all] Error 2
+[11.715s] make: *** [all] Error 2

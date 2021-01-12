@@ -1,0 +1,16 @@
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/waypoint_maker/lib/pkgconfig/waypoint_maker.pc
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/waypoint_maker/share/waypoint_maker/cmake/waypoint_makerConfig.cmake
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/waypoint_maker/share/waypoint_maker/cmake/waypoint_makerConfig-version.cmake
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/waypoint_maker/share/waypoint_maker/package.xml
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/waypoint_maker/lib/waypoint_maker/waypoint_loader
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/waypoint_maker/lib/waypoint_maker/waypoint_replanner
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/waypoint_maker/lib/waypoint_maker/waypoint_saver
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/waypoint_maker/lib/waypoint_maker/waypoint_clicker
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/waypoint_maker/lib/waypoint_maker/waypoint_marker_publisher
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/waypoint_maker/lib/waypoint_maker/waypoint_velocity_visualizer
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/waypoint_maker/lib/waypoint_maker/waypoint_extractor
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/waypoint_maker/lib/waypoint_maker/waypoint_creator
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/waypoint_maker/share/waypoint_maker/launch/waypoint_saver.launch
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/waypoint_maker/share/waypoint_maker/launch/waypoint_creator.launch
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/waypoint_maker/share/waypoint_maker/launch/waypoint_loader.launch
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/waypoint_maker/share/waypoint_maker/launch/waypoint_velocity_visualizer.launch

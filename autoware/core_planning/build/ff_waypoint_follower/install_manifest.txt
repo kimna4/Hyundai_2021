@@ -1,0 +1,8 @@
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/ff_waypoint_follower/lib/pkgconfig/ff_waypoint_follower.pc
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/ff_waypoint_follower/share/ff_waypoint_follower/cmake/ff_waypoint_followerConfig.cmake
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/ff_waypoint_follower/share/ff_waypoint_follower/cmake/ff_waypoint_followerConfig-version.cmake
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/ff_waypoint_follower/share/ff_waypoint_follower/package.xml
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/ff_waypoint_follower/lib/ff_waypoint_follower/ff_waypoint_follower
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/ff_waypoint_follower/share/ff_waypoint_follower/launch/ffwaypointfollower_robot.launch
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/ff_waypoint_follower/share/ff_waypoint_follower/launch/ffwaypointfollower_car.launch
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/ff_waypoint_follower/share/ff_waypoint_follower/params/config.yaml

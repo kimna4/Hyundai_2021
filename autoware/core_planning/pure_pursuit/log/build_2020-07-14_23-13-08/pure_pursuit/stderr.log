@@ -1,0 +1,7 @@
+[1.073s] CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o: In function `waypoint_follower::PurePursuitNode::run()':
+[1.073s] /home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:100: undefined reference to `Stanley::~Stanley()'
+[1.073s] /home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:100: undefined reference to `Stanley::~Stanley()'
+[1.073s] collect2: error: ld returned 1 exit status
+[1.074s] make[2]: *** [devel/lib/pure_pursuit/pure_pursuit] Error 1
+[1.074s] make[1]: *** [CMakeFiles/pure_pursuit.dir/all] Error 2
+[1.074s] make: *** [all] Error 2

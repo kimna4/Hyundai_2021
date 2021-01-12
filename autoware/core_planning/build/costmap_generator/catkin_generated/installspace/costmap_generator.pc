@@ -1,0 +1,8 @@
+prefix=/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/costmap_generator
+
+Name: costmap_generator
+Description: Description of costmap_generator
+Version: 1.12.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

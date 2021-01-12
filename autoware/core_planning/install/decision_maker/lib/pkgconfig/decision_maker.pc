@@ -1,0 +1,8 @@
+prefix=/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/decision_maker
+
+Name: decision_maker
+Description: Description of decision_maker
+Version: 1.12.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

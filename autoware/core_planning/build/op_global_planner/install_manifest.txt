@@ -1,0 +1,6 @@
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/op_global_planner/lib/pkgconfig/op_global_planner.pc
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/op_global_planner/share/op_global_planner/cmake/op_global_plannerConfig.cmake
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/op_global_planner/share/op_global_planner/cmake/op_global_plannerConfig-version.cmake
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/op_global_planner/share/op_global_planner/package.xml
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/op_global_planner/lib/op_global_planner/op_global_planner
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/op_global_planner/share/op_global_planner/launch/op_global_planner.launch

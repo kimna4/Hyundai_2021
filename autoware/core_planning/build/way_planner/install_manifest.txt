@@ -1,0 +1,6 @@
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/way_planner/lib/pkgconfig/way_planner.pc
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/way_planner/share/way_planner/cmake/way_plannerConfig.cmake
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/way_planner/share/way_planner/cmake/way_plannerConfig-version.cmake
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/way_planner/share/way_planner/package.xml
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/way_planner/lib/way_planner/way_planner
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/install/way_planner/share/way_planner/launch/way_planner.launch

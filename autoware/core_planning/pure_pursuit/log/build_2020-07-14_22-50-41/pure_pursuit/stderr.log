@@ -1,0 +1,7 @@
+[1.698s] In file included from [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/src/pure_pursuit_core.cpp:19:0[m[K:
+[1.699s] [01m[K/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/pure_pursuit/include/pure_pursuit/stanley.h:1:0:[m[K [01;31m[Kerror: [m[Kunterminated #ifndef
+[1.699s]  #ifndef PURE_PURSUIT_PURE_PURSUIT_H
+[1.699s]  
+[4.080s] make[2]: *** [CMakeFiles/pure_pursuit.dir/src/pure_pursuit_core.cpp.o] Error 1
+[4.080s] make[1]: *** [CMakeFiles/pure_pursuit.dir/all] Error 2
+[4.080s] make: *** [all] Error 2

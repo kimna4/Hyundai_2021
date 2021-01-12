@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/twist_filter/include/twist_filter/twist_filter.h
+iostream
+-
+boost/optional.hpp
+-
+
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/twist_filter/src/twist_filter.cpp
+twist_filter/twist_filter.h
+/home/kimna/Desktop/autoware.ai/src/autoware/core_planning/twist_filter/src/twist_filter/twist_filter.h
+cmath
+-
+limits
+-
+
